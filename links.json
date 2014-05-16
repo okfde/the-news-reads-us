@@ -1,0 +1,1922 @@
+{
+  "sites": {
+    "wildundhund.de": {
+      "num": 13, 
+      "links": [
+        "paulparey.de", 
+        "googletagservices.com", 
+        "mathtag.com", 
+        "doubleclick.net", 
+        "serving-sys.com", 
+        "youtube.com", 
+        "google.com", 
+        "twitter.com", 
+        "googlesyndication.com", 
+        "googleadservices.com", 
+        "gstatic.com", 
+        "facebook.com", 
+        "google-analytics.com"
+      ]
+    }, 
+    "heise.de": {
+      "num": 19, 
+      "links": [
+        "ligatus.com", 
+        "scorecardresearch.com", 
+        "yieldlab.net", 
+        "doubleclick.net", 
+        "adition.com", 
+        "ebay.com", 
+        "mediaplex.com", 
+        "webtrekk.net", 
+        "chango.com", 
+        "ioam.de", 
+        "ivwbox.de", 
+        "googlesyndication.com", 
+        "ix.de", 
+        "2mdn.net", 
+        "unister-adservices.com", 
+        "t4ft.de", 
+        "gstatic.com", 
+        "simpli.fi", 
+        "vgwort.de"
+      ]
+    }, 
+    "bild.de": {
+      "num": 44, 
+      "links": [
+        "adform.net", 
+        "webmasterplan.com", 
+        "zanox.com", 
+        "exactag.com", 
+        "congstar.de", 
+        "scorecardresearch.com", 
+        "yieldlab.net", 
+        "gmads.net", 
+        "atsfi.de", 
+        "congstar-media.de", 
+        "bizographics.com", 
+        "gwallet.com", 
+        "doubleclick.net", 
+        "akamaihd.net", 
+        "googletagmanager.com", 
+        "vodafone.de", 
+        "ivwbox.de", 
+        "googlesyndication.com", 
+        "twitter.com", 
+        "visualrevenue.com", 
+        "clookie.net", 
+        "facebook.com", 
+        "t4ft.de", 
+        "active-srv02.de", 
+        "heias.com", 
+        "1822direkt.biz", 
+        "xing-share.com", 
+        "nuggad.net", 
+        "exelator.com", 
+        "serving-sys.com", 
+        "adrolays.de", 
+        "ioam.de", 
+        "sascdn.com", 
+        "krxd.net", 
+        "facebook.net", 
+        "intellitxt.com", 
+        "ligatus.com", 
+        "google.com", 
+        "revsci.net", 
+        "aol.com", 
+        "twimg.com", 
+        "smartadserver.com", 
+        "affil.io", 
+        "outbrain.com"
+      ]
+    }, 
+    "huffingtonpost.de": {
+      "num": 41, 
+      "links": [
+        "adform.net", 
+        "googletagservices.com", 
+        "scorecardresearch.com", 
+        "rtbidder.net", 
+        "yieldlab.net", 
+        "2mdn.net", 
+        "crwdcntrl.net", 
+        "aolcdn.com", 
+        "omtrdc.net", 
+        "chartbeat.net", 
+        "optimizely.com", 
+        "doubleclick.net", 
+        "huffingtonpost.com", 
+        "bizographics.com", 
+        "ivwbox.de", 
+        "googlesyndication.com", 
+        "twitter.com", 
+        "visualrevenue.com", 
+        "facebook.com", 
+        "vinsight.de", 
+        "imrworldwide.com", 
+        "quantserve.com", 
+        "focus.de", 
+        "xing-share.com", 
+        "exelator.com", 
+        "akamaihd.net", 
+        "ioam.de", 
+        "googleusercontent.com", 
+        "krxd.net", 
+        "turn.com", 
+        "pubmatic.com", 
+        "t4ft.de", 
+        "yahoo.com", 
+        "newrelic.com", 
+        "google.com", 
+        "revsci.net", 
+        "aol.com", 
+        "tfag.de", 
+        "openx.net", 
+        "outbrain.com", 
+        "huffpost.com"
+      ]
+    }, 
+    "zeit.de": {
+      "num": 37, 
+      "links": [
+        "sitescout.com", 
+        "vgwort.de", 
+        "w55c.net", 
+        "googleadservices.com", 
+        "gmads.net", 
+        "2mdn.net", 
+        "optimizely.com", 
+        "meetrics.net", 
+        "doubleclick.net", 
+        "googletagmanager.com", 
+        "webtrekk.net", 
+        "brightcove.com", 
+        "ivwbox.de", 
+        "research.de.com", 
+        "googlesyndication.com", 
+        "twitter.com", 
+        "google.de", 
+        "t4ft.de", 
+        "heias.com", 
+        "nuggad.net", 
+        "serving-sys.com", 
+        "llnwd.net", 
+        "ioam.de", 
+        "creative-serving.com", 
+        "krxd.net", 
+        "casalemedia.com", 
+        "pubmatic.com", 
+        "ligatus.com", 
+        "mathtag.com", 
+        "google.com", 
+        "revsci.net", 
+        "twimg.com", 
+        "yieldlab.net", 
+        "adscience.nl", 
+        "openx.net", 
+        "360yield.com", 
+        "mxcdn.net"
+      ]
+    }, 
+    "faz.net": {
+      "num": 55, 
+      "links": [
+        "sitescout.com", 
+        "vgwort.de", 
+        "w55c.net", 
+        "eqads.com", 
+        "scorecardresearch.com", 
+        "yieldlab.net", 
+        "gmads.net", 
+        "flashtalking.com", 
+        "plista.com", 
+        "active-agent.com", 
+        "bizographics.com", 
+        "chartbeat.net", 
+        "criteo.com", 
+        "research.de.com", 
+        "doubleclick.net", 
+        "adsrvr.org", 
+        "eyereturn.com", 
+        "ivwbox.de", 
+        "chartbeat.com", 
+        "media6degrees.com", 
+        "googlesyndication.com", 
+        "twitter.com", 
+        "advertising.com", 
+        "m-pathy.com", 
+        "o2online.de", 
+        "casalemedia.com", 
+        "domdex.com", 
+        "facebook.com", 
+        "t4ft.de", 
+        "adspirit.de", 
+        "heias.com", 
+        "acuityplatform.com", 
+        "adnxs.com", 
+        "nuggad.net", 
+        "exelator.com", 
+        "serving-sys.com", 
+        "refinedads.com", 
+        "1822direkt.com", 
+        "ioam.de", 
+        "krxd.net", 
+        "facebook.net", 
+        "turn.com", 
+        "tele2.de", 
+        "optmd.com", 
+        "ligatus.com", 
+        "mathtag.com", 
+        "veeseo.com", 
+        "rfihub.com", 
+        "google.com", 
+        "revsci.net", 
+        "adition.com", 
+        "netmng.com", 
+        "intelliad.de", 
+        "360yield.com", 
+        "google-analytics.com"
+      ]
+    }, 
+    "n24.de": {
+      "num": 28, 
+      "links": [
+        "gartenxxl.de", 
+        "scorecardresearch.com", 
+        "yieldlab.net", 
+        "flashtalking.com", 
+        "ariva.de", 
+        "chartbeat.net", 
+        "optimizely.com", 
+        "meetrics.net", 
+        "doubleclick.net", 
+        "71i.de", 
+        "ivwbox.de", 
+        "chartbeat.com", 
+        "googlesyndication.com", 
+        "twitter.com", 
+        "facebook.com", 
+        "nuggad.net", 
+        "serving-sys.com", 
+        "tnm.de", 
+        "refinedads.com", 
+        "ioam.de", 
+        "krxd.net", 
+        "revsci.net", 
+        "adition.com", 
+        "webmasterplan.com", 
+        "gstatic.com", 
+        "google-analytics.com", 
+        "outbrain.com", 
+        "ad-srv.net"
+      ]
+    }, 
+    "handelsblatt.com": {
+      "num": 31, 
+      "links": [
+        "vgwort.de", 
+        "w55c.net", 
+        "scorecardresearch.com", 
+        "yieldlab.net", 
+        "2mdn.net", 
+        "bizographics.com", 
+        "meetrics.net", 
+        "doubleclick.net", 
+        "webtrekk.net", 
+        "brightcove.com", 
+        "ivwbox.de", 
+        "googlesyndication.com", 
+        "twitter.com", 
+        "facebook.com", 
+        "t4ft.de", 
+        "heias.com", 
+        "nuggad.net", 
+        "exelator.com", 
+        "ioam.de", 
+        "creative-serving.com", 
+        "krxd.net", 
+        "bidtheatre.com", 
+        "adizio.com", 
+        "ligatus.com", 
+        "bestlawyers.com", 
+        "veeseo.com", 
+        "google.com", 
+        "revsci.net", 
+        "360yield.com", 
+        "google-analytics.com", 
+        "outbrain.com"
+      ]
+    }, 
+    "spiegel.de": {
+      "num": 33, 
+      "links": [
+        "adform.net", 
+        "googletagservices.com", 
+        "vgwort.de", 
+        "quality-channel.de", 
+        "meetic-partners.com", 
+        "yieldlab.net", 
+        "plista.com", 
+        "unister-adservices.com", 
+        "meetrics.net", 
+        "doubleclick.net", 
+        "fonts.googleapis.com", 
+        "westlotto.com", 
+        "ivwbox.de", 
+        "googlesyndication.com", 
+        "twitter.com", 
+        "facebook.com", 
+        "mupads.de", 
+        "serving-sys.com", 
+        "refinedads.com", 
+        "maps.googleapis.com", 
+        "ioam.de", 
+        "googleusercontent.com", 
+        "sascdn.com", 
+        "mt0.googleapis.com", 
+        "ligatus.com", 
+        "veeseo.com", 
+        "google.com", 
+        "adition.com", 
+        "vxcp.de", 
+        "mt1.googleapis.com", 
+        "gstatic.com", 
+        "mxcdn.net", 
+        "google-analytics.com"
+      ]
+    }, 
+    "welt.de": {
+      "num": 59, 
+      "links": [
+        "adform.net", 
+        "disqus.com", 
+        "mlsat02.de", 
+        "vgwort.de", 
+        "w55c.net", 
+        "adtech.de", 
+        "planetapes.de", 
+        "scorecardresearch.com", 
+        "t-mobile.de", 
+        "yieldlab.net", 
+        "gmads.net", 
+        "plista.com", 
+        "cxense.com", 
+        "bizographics.com", 
+        "wulffmorgenthaler.de", 
+        "disquscdn.com", 
+        "optimizely.com", 
+        "mlsat04.de", 
+        "bluekai.com", 
+        "doubleclick.net", 
+        "webmasterplan.com", 
+        "googletagmanager.com", 
+        "webtrekk.net", 
+        "ivwbox.de", 
+        "emediate.eu", 
+        "googlesyndication.com", 
+        "twitter.com", 
+        "facebook.com", 
+        "ctnsnet.com", 
+        "heias.com", 
+        "nuggad.net", 
+        "exelator.com", 
+        "serving-sys.com", 
+        "ligatus.com", 
+        "zanox.com", 
+        "veruta.com", 
+        "google.de", 
+        "ioam.de", 
+        "googleusercontent.com", 
+        "sascdn.com", 
+        "krxd.net", 
+        "facebook.net", 
+        "tele2.de", 
+        "iconist.de", 
+        "bidswitch.net", 
+        "adrolays.de", 
+        "mathtag.com", 
+        "veeseo.com", 
+        "rfihub.com", 
+        "google.com", 
+        "revsci.net", 
+        "adition.com", 
+        "twimg.com", 
+        "smartadserver.com", 
+        "trgt.eu", 
+        "gstatic.com", 
+        "adscale.de", 
+        "ru4.com", 
+        "google-analytics.com"
+      ]
+    }, 
+    "facebook.com": {
+      "num": 6, 
+      "links": [
+        "disqus.com", 
+        "akamaihd.net", 
+        "google.com", 
+        "adition.com", 
+        "fbcdn.net", 
+        "googlesyndication.com"
+      ]
+    }, 
+    "sueddeutsche.de": {
+      "num": 47, 
+      "links": [
+        "msn.com", 
+        "plista.com", 
+        "sueddeutsche.com", 
+        "vgwort.de", 
+        "scorecardresearch.com", 
+        "yieldlab.net", 
+        "gmads.net", 
+        "2mdn.net", 
+        "bizographics.com", 
+        "sitestat.com", 
+        "optimizely.com", 
+        "chartbeat.com", 
+        "bing.com", 
+        "mpnrs.com", 
+        "doubleclick.net", 
+        "googletagmanager.com", 
+        "ivwbox.de", 
+        "research.de.com", 
+        "googlesyndication.com", 
+        "twitter.com", 
+        "chartbeat.net", 
+        "facebook.com", 
+        "t4ft.de", 
+        "adspirit.de", 
+        "adnxs.com", 
+        "nuggad.net", 
+        "w55c.net", 
+        "adroll.com", 
+        "serving-sys.com", 
+        "exelator.com", 
+        "advolution.de", 
+        "ioam.de", 
+        "krxd.net", 
+        "google.de", 
+        "quisma.com", 
+        "ligatus.com", 
+        "mookie1.com", 
+        "reprize.de", 
+        "google.com", 
+        "revsci.net", 
+        "adition.com", 
+        "twimg.com", 
+        "googleadservices.com", 
+        "load.s3.amazonaws.com", 
+        "rackcdn.com", 
+        "facebook.net", 
+        "google-analytics.com"
+      ]
+    }, 
+    "tagesspiegel.de": {
+      "num": 37, 
+      "links": [
+        "adform.net", 
+        "vgwort.de", 
+        "scorecardresearch.com", 
+        "taboola.com", 
+        "googleadservices.com", 
+        "flashtalking.com", 
+        "plista.com", 
+        "ivwbox.de", 
+        "chartbeat.net", 
+        "meetrics.net", 
+        "doubleclick.net", 
+        "brightcove.com", 
+        "edgesuite.net", 
+        "chartbeat.com", 
+        "googlesyndication.com", 
+        "twitter.com", 
+        "o2online.de", 
+        "google.de", 
+        "adspirit.de", 
+        "adnxs.com", 
+        "nuggad.net", 
+        "serving-sys.com", 
+        "twiago.com", 
+        "llnwd.net", 
+        "ioam.de", 
+        "urban-media.com", 
+        "hurra.com", 
+        "media01.eu", 
+        "rubiconproject.com", 
+        "qservz.com", 
+        "google.com", 
+        "adition.com", 
+        "twimg.com", 
+        "lotto24.de", 
+        "gstatic.com", 
+        "mxcdn.net", 
+        "google-analytics.com"
+      ]
+    }, 
+    "tagesschau.de": {
+      "num": 4, 
+      "links": [
+        "adform.net", 
+        "ard.de", 
+        "sitestat.com", 
+        "ivwbox.de"
+      ]
+    }, 
+    "taz.de": {
+      "num": 14, 
+      "links": [
+        "adform.net", 
+        "flattr.com", 
+        "vgwort.de", 
+        "myspace.com", 
+        "scorecardresearch.com", 
+        "etracker.de", 
+        "ioam.de", 
+        "ivwbox.de", 
+        "tribalfusion.com", 
+        "adscale.de", 
+        "vindicosuite.com", 
+        "etracker.com", 
+        "exponential.com", 
+        "adspirit.de"
+      ]
+    }
+  }, 
+  "networks": {
+    "adform.net": {
+      "num": 7, 
+      "links": [
+        "huffingtonpost.de", 
+        "bild.de", 
+        "spiegel.de", 
+        "welt.de", 
+        "tagesspiegel.de", 
+        "tagesschau.de", 
+        "taz.de"
+      ]
+    }, 
+    "mlsat02.de": {
+      "num": 1, 
+      "links": [
+        "welt.de"
+      ]
+    }, 
+    "vgwort.de": {
+      "num": 9, 
+      "links": [
+        "heise.de", 
+        "zeit.de", 
+        "tagesspiegel.de", 
+        "handelsblatt.com", 
+        "spiegel.de", 
+        "welt.de", 
+        "sueddeutsche.de", 
+        "faz.net", 
+        "taz.de"
+      ]
+    }, 
+    "adtech.de": {
+      "num": 1, 
+      "links": [
+        "welt.de"
+      ]
+    }, 
+    "scorecardresearch.com": {
+      "num": 10, 
+      "links": [
+        "tagesspiegel.de", 
+        "heise.de", 
+        "huffingtonpost.de", 
+        "n24.de", 
+        "handelsblatt.com", 
+        "welt.de", 
+        "sueddeutsche.de", 
+        "faz.net", 
+        "bild.de", 
+        "taz.de"
+      ]
+    }, 
+    "meetic-partners.com": {
+      "num": 1, 
+      "links": [
+        "spiegel.de"
+      ]
+    }, 
+    "westlotto.com": {
+      "num": 1, 
+      "links": [
+        "spiegel.de"
+      ]
+    }, 
+    "turn.com": {
+      "num": 2, 
+      "links": [
+        "huffingtonpost.de", 
+        "faz.net"
+      ]
+    }, 
+    "gmads.net": {
+      "num": 5, 
+      "links": [
+        "welt.de", 
+        "sueddeutsche.de", 
+        "zeit.de", 
+        "bild.de", 
+        "faz.net"
+      ]
+    }, 
+    "active-agent.com": {
+      "num": 1, 
+      "links": [
+        "faz.net"
+      ]
+    }, 
+    "ariva.de": {
+      "num": 1, 
+      "links": [
+        "n24.de"
+      ]
+    }, 
+    "criteo.com": {
+      "num": 1, 
+      "links": [
+        "faz.net"
+      ]
+    }, 
+    "meetrics.net": {
+      "num": 5, 
+      "links": [
+        "handelsblatt.com", 
+        "zeit.de", 
+        "n24.de", 
+        "spiegel.de", 
+        "tagesspiegel.de"
+      ]
+    }, 
+    "huffingtonpost.com": {
+      "num": 1, 
+      "links": [
+        "huffingtonpost.de"
+      ]
+    }, 
+    "googletagmanager.com": {
+      "num": 4, 
+      "links": [
+        "welt.de", 
+        "sueddeutsche.de", 
+        "zeit.de", 
+        "bild.de"
+      ]
+    }, 
+    "vodafone.de": {
+      "num": 1, 
+      "links": [
+        "bild.de"
+      ]
+    }, 
+    "ivwbox.de": {
+      "num": 13, 
+      "links": [
+        "tagesspiegel.de", 
+        "heise.de", 
+        "zeit.de", 
+        "huffingtonpost.de", 
+        "tagesschau.de", 
+        "n24.de", 
+        "handelsblatt.com", 
+        "spiegel.de", 
+        "welt.de", 
+        "sueddeutsche.de", 
+        "faz.net", 
+        "bild.de", 
+        "taz.de"
+      ]
+    }, 
+    "media6degrees.com": {
+      "num": 1, 
+      "links": [
+        "faz.net"
+      ]
+    }, 
+    "googlesyndication.com": {
+      "num": 13, 
+      "links": [
+        "wildundhund.de", 
+        "heise.de", 
+        "huffingtonpost.de", 
+        "zeit.de", 
+        "faz.net", 
+        "n24.de", 
+        "handelsblatt.com", 
+        "spiegel.de", 
+        "welt.de", 
+        "facebook.com", 
+        "sueddeutsche.de", 
+        "tagesspiegel.de", 
+        "bild.de"
+      ]
+    }, 
+    "focus.de": {
+      "num": 1, 
+      "links": [
+        "huffingtonpost.de"
+      ]
+    }, 
+    "nuggad.net": {
+      "num": 8, 
+      "links": [
+        "bild.de", 
+        "zeit.de", 
+        "tagesspiegel.de", 
+        "handelsblatt.com", 
+        "welt.de", 
+        "sueddeutsche.de", 
+        "faz.net", 
+        "n24.de"
+      ]
+    }, 
+    "exelator.com": {
+      "num": 6, 
+      "links": [
+        "huffingtonpost.de", 
+        "faz.net", 
+        "handelsblatt.com", 
+        "welt.de", 
+        "sueddeutsche.de", 
+        "bild.de"
+      ]
+    }, 
+    "llnwd.net": {
+      "num": 2, 
+      "links": [
+        "zeit.de", 
+        "tagesspiegel.de"
+      ]
+    }, 
+    "refinedads.com": {
+      "num": 3, 
+      "links": [
+        "n24.de", 
+        "spiegel.de", 
+        "faz.net"
+      ]
+    }, 
+    "ard.de": {
+      "num": 1, 
+      "links": [
+        "tagesschau.de"
+      ]
+    }, 
+    "maps.googleapis.com": {
+      "num": 1, 
+      "links": [
+        "spiegel.de"
+      ]
+    }, 
+    "mt1.googleapis.com": {
+      "num": 1, 
+      "links": [
+        "spiegel.de"
+      ]
+    }, 
+    "vindicosuite.com": {
+      "num": 1, 
+      "links": [
+        "taz.de"
+      ]
+    }, 
+    "facebook.net": {
+      "num": 4, 
+      "links": [
+        "welt.de", 
+        "sueddeutsche.de", 
+        "bild.de", 
+        "faz.net"
+      ]
+    }, 
+    "tele2.de": {
+      "num": 2, 
+      "links": [
+        "welt.de", 
+        "faz.net"
+      ]
+    }, 
+    "bidswitch.net": {
+      "num": 1, 
+      "links": [
+        "welt.de"
+      ]
+    }, 
+    "pubmatic.com": {
+      "num": 2, 
+      "links": [
+        "huffingtonpost.de", 
+        "zeit.de"
+      ]
+    }, 
+    "optmd.com": {
+      "num": 1, 
+      "links": [
+        "faz.net"
+      ]
+    }, 
+    "ligatus.com": {
+      "num": 8, 
+      "links": [
+        "heise.de", 
+        "zeit.de", 
+        "faz.net", 
+        "handelsblatt.com", 
+        "spiegel.de", 
+        "welt.de", 
+        "sueddeutsche.de", 
+        "bild.de"
+      ]
+    }, 
+    "rfihub.com": {
+      "num": 2, 
+      "links": [
+        "welt.de", 
+        "faz.net"
+      ]
+    }, 
+    "vxcp.de": {
+      "num": 1, 
+      "links": [
+        "spiegel.de"
+      ]
+    }, 
+    "load.s3.amazonaws.com": {
+      "num": 1, 
+      "links": [
+        "sueddeutsche.de"
+      ]
+    }, 
+    "gstatic.com": {
+      "num": 6, 
+      "links": [
+        "wildundhund.de", 
+        "heise.de", 
+        "tagesspiegel.de", 
+        "spiegel.de", 
+        "welt.de", 
+        "n24.de"
+      ]
+    }, 
+    "casalemedia.com": {
+      "num": 2, 
+      "links": [
+        "zeit.de", 
+        "faz.net"
+      ]
+    }, 
+    "rackcdn.com": {
+      "num": 1, 
+      "links": [
+        "sueddeutsche.de"
+      ]
+    }, 
+    "sitescout.com": {
+      "num": 2, 
+      "links": [
+        "zeit.de", 
+        "faz.net"
+      ]
+    }, 
+    "gartenxxl.de": {
+      "num": 1, 
+      "links": [
+        "n24.de"
+      ]
+    }, 
+    "plista.com": {
+      "num": 5, 
+      "links": [
+        "welt.de", 
+        "sueddeutsche.de", 
+        "tagesspiegel.de", 
+        "spiegel.de", 
+        "faz.net"
+      ]
+    }, 
+    "zanox.com": {
+      "num": 2, 
+      "links": [
+        "welt.de", 
+        "bild.de"
+      ]
+    }, 
+    "unister-adservices.com": {
+      "num": 2, 
+      "links": [
+        "heise.de", 
+        "spiegel.de"
+      ]
+    }, 
+    "taboola.com": {
+      "num": 1, 
+      "links": [
+        "tagesspiegel.de"
+      ]
+    }, 
+    "yieldlab.net": {
+      "num": 10, 
+      "links": [
+        "heise.de", 
+        "huffingtonpost.de", 
+        "zeit.de", 
+        "n24.de", 
+        "handelsblatt.com", 
+        "spiegel.de", 
+        "welt.de", 
+        "sueddeutsche.de", 
+        "faz.net", 
+        "bild.de"
+      ]
+    }, 
+    "adnxs.com": {
+      "num": 3, 
+      "links": [
+        "sueddeutsche.de", 
+        "tagesspiegel.de", 
+        "faz.net"
+      ]
+    }, 
+    "exponential.com": {
+      "num": 1, 
+      "links": [
+        "taz.de"
+      ]
+    }, 
+    "atsfi.de": {
+      "num": 1, 
+      "links": [
+        "bild.de"
+      ]
+    }, 
+    "congstar-media.de": {
+      "num": 1, 
+      "links": [
+        "bild.de"
+      ]
+    }, 
+    "wulffmorgenthaler.de": {
+      "num": 1, 
+      "links": [
+        "welt.de"
+      ]
+    }, 
+    "chartbeat.net": {
+      "num": 5, 
+      "links": [
+        "huffingtonpost.de", 
+        "tagesspiegel.de", 
+        "n24.de", 
+        "sueddeutsche.de", 
+        "faz.net"
+      ]
+    }, 
+    "lotto24.de": {
+      "num": 1, 
+      "links": [
+        "tagesspiegel.de"
+      ]
+    }, 
+    "veruta.com": {
+      "num": 1, 
+      "links": [
+        "welt.de"
+      ]
+    }, 
+    "doubleclick.net": {
+      "num": 12, 
+      "links": [
+        "wildundhund.de", 
+        "tagesspiegel.de", 
+        "heise.de", 
+        "huffingtonpost.de", 
+        "zeit.de", 
+        "n24.de", 
+        "handelsblatt.com", 
+        "spiegel.de", 
+        "welt.de", 
+        "sueddeutsche.de", 
+        "faz.net", 
+        "bild.de"
+      ]
+    }, 
+    "71i.de": {
+      "num": 1, 
+      "links": [
+        "n24.de"
+      ]
+    }, 
+    "akamaihd.net": {
+      "num": 3, 
+      "links": [
+        "facebook.com", 
+        "huffingtonpost.de", 
+        "bild.de"
+      ]
+    }, 
+    "bizographics.com": {
+      "num": 6, 
+      "links": [
+        "huffingtonpost.de", 
+        "faz.net", 
+        "handelsblatt.com", 
+        "welt.de", 
+        "sueddeutsche.de", 
+        "bild.de"
+      ]
+    }, 
+    "eyereturn.com": {
+      "num": 1, 
+      "links": [
+        "faz.net"
+      ]
+    }, 
+    "edgesuite.net": {
+      "num": 1, 
+      "links": [
+        "tagesspiegel.de"
+      ]
+    }, 
+    "domdex.com": {
+      "num": 1, 
+      "links": [
+        "faz.net"
+      ]
+    }, 
+    "adizio.com": {
+      "num": 1, 
+      "links": [
+        "handelsblatt.com"
+      ]
+    }, 
+    "vinsight.de": {
+      "num": 1, 
+      "links": [
+        "huffingtonpost.de"
+      ]
+    }, 
+    "optimizely.com": {
+      "num": 5, 
+      "links": [
+        "welt.de", 
+        "huffingtonpost.de", 
+        "zeit.de", 
+        "n24.de", 
+        "sueddeutsche.de"
+      ]
+    }, 
+    "xing-share.com": {
+      "num": 2, 
+      "links": [
+        "huffingtonpost.de", 
+        "bild.de"
+      ]
+    }, 
+    "w55c.net": {
+      "num": 5, 
+      "links": [
+        "welt.de", 
+        "sueddeutsche.de", 
+        "handelsblatt.com", 
+        "zeit.de", 
+        "faz.net"
+      ]
+    }, 
+    "tnm.de": {
+      "num": 1, 
+      "links": [
+        "n24.de"
+      ]
+    }, 
+    "ioam.de": {
+      "num": 12, 
+      "links": [
+        "tagesspiegel.de", 
+        "heise.de", 
+        "huffingtonpost.de", 
+        "zeit.de", 
+        "n24.de", 
+        "handelsblatt.com", 
+        "spiegel.de", 
+        "welt.de", 
+        "sueddeutsche.de", 
+        "faz.net", 
+        "bild.de", 
+        "taz.de"
+      ]
+    }, 
+    "ru4.com": {
+      "num": 1, 
+      "links": [
+        "welt.de"
+      ]
+    }, 
+    "creative-serving.com": {
+      "num": 2, 
+      "links": [
+        "handelsblatt.com", 
+        "zeit.de"
+      ]
+    }, 
+    "etracker.com": {
+      "num": 1, 
+      "links": [
+        "taz.de"
+      ]
+    }, 
+    "mt0.googleapis.com": {
+      "num": 1, 
+      "links": [
+        "spiegel.de"
+      ]
+    }, 
+    "hurra.com": {
+      "num": 1, 
+      "links": [
+        "tagesspiegel.de"
+      ]
+    }, 
+    "googleusercontent.com": {
+      "num": 3, 
+      "links": [
+        "welt.de", 
+        "huffingtonpost.de", 
+        "spiegel.de"
+      ]
+    }, 
+    "yahoo.com": {
+      "num": 1, 
+      "links": [
+        "huffingtonpost.de"
+      ]
+    }, 
+    "veeseo.com": {
+      "num": 4, 
+      "links": [
+        "welt.de", 
+        "handelsblatt.com", 
+        "spiegel.de", 
+        "faz.net"
+      ]
+    }, 
+    "rtbidder.net": {
+      "num": 1, 
+      "links": [
+        "huffingtonpost.de"
+      ]
+    }, 
+    "adition.com": {
+      "num": 8, 
+      "links": [
+        "heise.de", 
+        "faz.net", 
+        "spiegel.de", 
+        "welt.de", 
+        "facebook.com", 
+        "sueddeutsche.de", 
+        "tagesspiegel.de", 
+        "n24.de"
+      ]
+    }, 
+    "netmng.com": {
+      "num": 1, 
+      "links": [
+        "faz.net"
+      ]
+    }, 
+    "smartadserver.com": {
+      "num": 2, 
+      "links": [
+        "welt.de", 
+        "bild.de"
+      ]
+    }, 
+    "tfag.de": {
+      "num": 1, 
+      "links": [
+        "huffingtonpost.de"
+      ]
+    }, 
+    "360yield.com": {
+      "num": 3, 
+      "links": [
+        "handelsblatt.com", 
+        "zeit.de", 
+        "faz.net"
+      ]
+    }, 
+    "mookie1.com": {
+      "num": 1, 
+      "links": [
+        "sueddeutsche.de"
+      ]
+    }, 
+    "affil.io": {
+      "num": 1, 
+      "links": [
+        "bild.de"
+      ]
+    }, 
+    "ad-srv.net": {
+      "num": 1, 
+      "links": [
+        "n24.de"
+      ]
+    }, 
+    "msn.com": {
+      "num": 1, 
+      "links": [
+        "sueddeutsche.de"
+      ]
+    }, 
+    "disqus.com": {
+      "num": 2, 
+      "links": [
+        "welt.de", 
+        "facebook.com"
+      ]
+    }, 
+    "congstar.de": {
+      "num": 1, 
+      "links": [
+        "bild.de"
+      ]
+    }, 
+    "ebay.com": {
+      "num": 1, 
+      "links": [
+        "heise.de"
+      ]
+    }, 
+    "planetapes.de": {
+      "num": 1, 
+      "links": [
+        "welt.de"
+      ]
+    }, 
+    "tribalfusion.com": {
+      "num": 1, 
+      "links": [
+        "taz.de"
+      ]
+    }, 
+    "googletagservices.com": {
+      "num": 3, 
+      "links": [
+        "wildundhund.de", 
+        "huffingtonpost.de", 
+        "spiegel.de"
+      ]
+    }, 
+    "flashtalking.com": {
+      "num": 3, 
+      "links": [
+        "tagesspiegel.de", 
+        "n24.de", 
+        "faz.net"
+      ]
+    }, 
+    "2mdn.net": {
+      "num": 5, 
+      "links": [
+        "huffingtonpost.de", 
+        "handelsblatt.com", 
+        "zeit.de", 
+        "heise.de", 
+        "sueddeutsche.de"
+      ]
+    }, 
+    "crwdcntrl.net": {
+      "num": 1, 
+      "links": [
+        "huffingtonpost.de"
+      ]
+    }, 
+    "cxense.com": {
+      "num": 1, 
+      "links": [
+        "welt.de"
+      ]
+    }, 
+    "omtrdc.net": {
+      "num": 1, 
+      "links": [
+        "huffingtonpost.de"
+      ]
+    }, 
+    "iconist.de": {
+      "num": 1, 
+      "links": [
+        "welt.de"
+      ]
+    }, 
+    "sitestat.com": {
+      "num": 2, 
+      "links": [
+        "sueddeutsche.de", 
+        "tagesschau.de"
+      ]
+    }, 
+    "ctnsnet.com": {
+      "num": 1, 
+      "links": [
+        "welt.de"
+      ]
+    }, 
+    "chartbeat.com": {
+      "num": 4, 
+      "links": [
+        "sueddeutsche.de", 
+        "tagesspiegel.de", 
+        "n24.de", 
+        "faz.net"
+      ]
+    }, 
+    "emediate.eu": {
+      "num": 1, 
+      "links": [
+        "welt.de"
+      ]
+    }, 
+    "quisma.com": {
+      "num": 1, 
+      "links": [
+        "sueddeutsche.de"
+      ]
+    }, 
+    "webtrekk.net": {
+      "num": 4, 
+      "links": [
+        "welt.de", 
+        "handelsblatt.com", 
+        "zeit.de", 
+        "heise.de"
+      ]
+    }, 
+    "chango.com": {
+      "num": 1, 
+      "links": [
+        "heise.de"
+      ]
+    }, 
+    "fbcdn.net": {
+      "num": 1, 
+      "links": [
+        "facebook.com"
+      ]
+    }, 
+    "research.de.com": {
+      "num": 3, 
+      "links": [
+        "sueddeutsche.de", 
+        "zeit.de", 
+        "faz.net"
+      ]
+    }, 
+    "twitter.com": {
+      "num": 11, 
+      "links": [
+        "wildundhund.de", 
+        "tagesspiegel.de", 
+        "huffingtonpost.de", 
+        "zeit.de", 
+        "bild.de", 
+        "handelsblatt.com", 
+        "spiegel.de", 
+        "welt.de", 
+        "sueddeutsche.de", 
+        "faz.net", 
+        "n24.de"
+      ]
+    }, 
+    "visualrevenue.com": {
+      "num": 2, 
+      "links": [
+        "huffingtonpost.de", 
+        "bild.de"
+      ]
+    }, 
+    "acuityplatform.com": {
+      "num": 1, 
+      "links": [
+        "faz.net"
+      ]
+    }, 
+    "o2online.de": {
+      "num": 2, 
+      "links": [
+        "tagesspiegel.de", 
+        "faz.net"
+      ]
+    }, 
+    "1822direkt.com": {
+      "num": 1, 
+      "links": [
+        "faz.net"
+      ]
+    }, 
+    "clookie.net": {
+      "num": 1, 
+      "links": [
+        "bild.de"
+      ]
+    }, 
+    "advertising.com": {
+      "num": 1, 
+      "links": [
+        "faz.net"
+      ]
+    }, 
+    "simpli.fi": {
+      "num": 1, 
+      "links": [
+        "heise.de"
+      ]
+    }, 
+    "active-srv02.de": {
+      "num": 1, 
+      "links": [
+        "bild.de"
+      ]
+    }, 
+    "quantserve.com": {
+      "num": 1, 
+      "links": [
+        "huffingtonpost.de"
+      ]
+    }, 
+    "heias.com": {
+      "num": 5, 
+      "links": [
+        "welt.de", 
+        "handelsblatt.com", 
+        "zeit.de", 
+        "bild.de", 
+        "faz.net"
+      ]
+    }, 
+    "1822direkt.biz": {
+      "num": 1, 
+      "links": [
+        "bild.de"
+      ]
+    }, 
+    "rubiconproject.com": {
+      "num": 1, 
+      "links": [
+        "tagesspiegel.de"
+      ]
+    }, 
+    "adroll.com": {
+      "num": 1, 
+      "links": [
+        "sueddeutsche.de"
+      ]
+    }, 
+    "gwallet.com": {
+      "num": 1, 
+      "links": [
+        "bild.de"
+      ]
+    }, 
+    "mupads.de": {
+      "num": 1, 
+      "links": [
+        "spiegel.de"
+      ]
+    }, 
+    "etracker.de": {
+      "num": 1, 
+      "links": [
+        "taz.de"
+      ]
+    }, 
+    "sascdn.com": {
+      "num": 3, 
+      "links": [
+        "welt.de", 
+        "bild.de", 
+        "spiegel.de"
+      ]
+    }, 
+    "adscale.de": {
+      "num": 2, 
+      "links": [
+        "welt.de", 
+        "taz.de"
+      ]
+    }, 
+    "google.de": {
+      "num": 4, 
+      "links": [
+        "welt.de", 
+        "sueddeutsche.de", 
+        "zeit.de", 
+        "tagesspiegel.de"
+      ]
+    }, 
+    "intellitxt.com": {
+      "num": 1, 
+      "links": [
+        "bild.de"
+      ]
+    }, 
+    "urban-media.com": {
+      "num": 1, 
+      "links": [
+        "tagesspiegel.de"
+      ]
+    }, 
+    "bluekai.com": {
+      "num": 1, 
+      "links": [
+        "welt.de"
+      ]
+    }, 
+    "adrolays.de": {
+      "num": 2, 
+      "links": [
+        "welt.de", 
+        "bild.de"
+      ]
+    }, 
+    "reprize.de": {
+      "num": 1, 
+      "links": [
+        "sueddeutsche.de"
+      ]
+    }, 
+    "imrworldwide.com": {
+      "num": 1, 
+      "links": [
+        "huffingtonpost.de"
+      ]
+    }, 
+    "revsci.net": {
+      "num": 8, 
+      "links": [
+        "huffingtonpost.de", 
+        "zeit.de", 
+        "bild.de", 
+        "handelsblatt.com", 
+        "welt.de", 
+        "sueddeutsche.de", 
+        "faz.net", 
+        "n24.de"
+      ]
+    }, 
+    "eqads.com": {
+      "num": 1, 
+      "links": [
+        "faz.net"
+      ]
+    }, 
+    "aol.com": {
+      "num": 2, 
+      "links": [
+        "huffingtonpost.de", 
+        "bild.de"
+      ]
+    }, 
+    "t-mobile.de": {
+      "num": 1, 
+      "links": [
+        "welt.de"
+      ]
+    }, 
+    "ix.de": {
+      "num": 1, 
+      "links": [
+        "heise.de"
+      ]
+    }, 
+    "mxcdn.net": {
+      "num": 3, 
+      "links": [
+        "zeit.de", 
+        "spiegel.de", 
+        "tagesspiegel.de"
+      ]
+    }, 
+    "huffpost.com": {
+      "num": 1, 
+      "links": [
+        "huffingtonpost.de"
+      ]
+    }, 
+    "outbrain.com": {
+      "num": 4, 
+      "links": [
+        "huffingtonpost.de", 
+        "handelsblatt.com", 
+        "bild.de", 
+        "n24.de"
+      ]
+    }, 
+    "sueddeutsche.com": {
+      "num": 1, 
+      "links": [
+        "sueddeutsche.de"
+      ]
+    }, 
+    "exactag.com": {
+      "num": 1, 
+      "links": [
+        "bild.de"
+      ]
+    }, 
+    "youtube.com": {
+      "num": 1, 
+      "links": [
+        "wildundhund.de"
+      ]
+    }, 
+    "quality-channel.de": {
+      "num": 1, 
+      "links": [
+        "spiegel.de"
+      ]
+    }, 
+    "myspace.com": {
+      "num": 1, 
+      "links": [
+        "taz.de"
+      ]
+    }, 
+    "googleadservices.com": {
+      "num": 4, 
+      "links": [
+        "wildundhund.de", 
+        "sueddeutsche.de", 
+        "zeit.de", 
+        "tagesspiegel.de"
+      ]
+    }, 
+    "disquscdn.com": {
+      "num": 1, 
+      "links": [
+        "welt.de"
+      ]
+    }, 
+    "mlsat04.de": {
+      "num": 1, 
+      "links": [
+        "welt.de"
+      ]
+    }, 
+    "bing.com": {
+      "num": 1, 
+      "links": [
+        "sueddeutsche.de"
+      ]
+    }, 
+    "mpnrs.com": {
+      "num": 1, 
+      "links": [
+        "sueddeutsche.de"
+      ]
+    }, 
+    "adsrvr.org": {
+      "num": 1, 
+      "links": [
+        "faz.net"
+      ]
+    }, 
+    "fonts.googleapis.com": {
+      "num": 1, 
+      "links": [
+        "spiegel.de"
+      ]
+    }, 
+    "brightcove.com": {
+      "num": 3, 
+      "links": [
+        "handelsblatt.com", 
+        "zeit.de", 
+        "tagesspiegel.de"
+      ]
+    }, 
+    "m-pathy.com": {
+      "num": 1, 
+      "links": [
+        "faz.net"
+      ]
+    }, 
+    "facebook.com": {
+      "num": 9, 
+      "links": [
+        "wildundhund.de", 
+        "huffingtonpost.de", 
+        "bild.de", 
+        "handelsblatt.com", 
+        "spiegel.de", 
+        "welt.de", 
+        "sueddeutsche.de", 
+        "faz.net", 
+        "n24.de"
+      ]
+    }, 
+    "t4ft.de": {
+      "num": 7, 
+      "links": [
+        "heise.de", 
+        "huffingtonpost.de", 
+        "zeit.de", 
+        "faz.net", 
+        "handelsblatt.com", 
+        "sueddeutsche.de", 
+        "bild.de"
+      ]
+    }, 
+    "adspirit.de": {
+      "num": 4, 
+      "links": [
+        "sueddeutsche.de", 
+        "tagesspiegel.de", 
+        "taz.de", 
+        "faz.net"
+      ]
+    }, 
+    "paulparey.de": {
+      "num": 1, 
+      "links": [
+        "wildundhund.de"
+      ]
+    }, 
+    "serving-sys.com": {
+      "num": 9, 
+      "links": [
+        "wildundhund.de", 
+        "bild.de", 
+        "zeit.de", 
+        "tagesspiegel.de", 
+        "spiegel.de", 
+        "welt.de", 
+        "sueddeutsche.de", 
+        "faz.net", 
+        "n24.de"
+      ]
+    }, 
+    "twiago.com": {
+      "num": 1, 
+      "links": [
+        "tagesspiegel.de"
+      ]
+    }, 
+    "mediaplex.com": {
+      "num": 1, 
+      "links": [
+        "heise.de"
+      ]
+    }, 
+    "advolution.de": {
+      "num": 1, 
+      "links": [
+        "sueddeutsche.de"
+      ]
+    }, 
+    "bidtheatre.com": {
+      "num": 1, 
+      "links": [
+        "handelsblatt.com"
+      ]
+    }, 
+    "intelliad.de": {
+      "num": 1, 
+      "links": [
+        "faz.net"
+      ]
+    }, 
+    "media01.eu": {
+      "num": 1, 
+      "links": [
+        "tagesspiegel.de"
+      ]
+    }, 
+    "flattr.com": {
+      "num": 1, 
+      "links": [
+        "taz.de"
+      ]
+    }, 
+    "newrelic.com": {
+      "num": 1, 
+      "links": [
+        "huffingtonpost.de"
+      ]
+    }, 
+    "mathtag.com": {
+      "num": 4, 
+      "links": [
+        "welt.de", 
+        "wildundhund.de", 
+        "zeit.de", 
+        "faz.net"
+      ]
+    }, 
+    "qservz.com": {
+      "num": 1, 
+      "links": [
+        "tagesspiegel.de"
+      ]
+    }, 
+    "bestlawyers.com": {
+      "num": 1, 
+      "links": [
+        "handelsblatt.com"
+      ]
+    }, 
+    "google.com": {
+      "num": 11, 
+      "links": [
+        "wildundhund.de", 
+        "huffingtonpost.de", 
+        "zeit.de", 
+        "faz.net", 
+        "handelsblatt.com", 
+        "spiegel.de", 
+        "welt.de", 
+        "facebook.com", 
+        "sueddeutsche.de", 
+        "tagesspiegel.de", 
+        "bild.de"
+      ]
+    }, 
+    "twimg.com": {
+      "num": 5, 
+      "links": [
+        "welt.de", 
+        "sueddeutsche.de", 
+        "zeit.de", 
+        "bild.de", 
+        "tagesspiegel.de"
+      ]
+    }, 
+    "webmasterplan.com": {
+      "num": 3, 
+      "links": [
+        "welt.de", 
+        "bild.de", 
+        "n24.de"
+      ]
+    }, 
+    "trgt.eu": {
+      "num": 1, 
+      "links": [
+        "welt.de"
+      ]
+    }, 
+    "adscience.nl": {
+      "num": 1, 
+      "links": [
+        "zeit.de"
+      ]
+    }, 
+    "openx.net": {
+      "num": 2, 
+      "links": [
+        "huffingtonpost.de", 
+        "zeit.de"
+      ]
+    }, 
+    "krxd.net": {
+      "num": 8, 
+      "links": [
+        "huffingtonpost.de", 
+        "zeit.de", 
+        "bild.de", 
+        "handelsblatt.com", 
+        "welt.de", 
+        "sueddeutsche.de", 
+        "faz.net", 
+        "n24.de"
+      ]
+    }, 
+    "google-analytics.com": {
+      "num": 8, 
+      "links": [
+        "wildundhund.de", 
+        "tagesspiegel.de", 
+        "handelsblatt.com", 
+        "spiegel.de", 
+        "welt.de", 
+        "sueddeutsche.de", 
+        "faz.net", 
+        "n24.de"
+      ]
+    }, 
+    "aolcdn.com": {
+      "num": 1, 
+      "links": [
+        "huffingtonpost.de"
+      ]
+    }
+  }
+}

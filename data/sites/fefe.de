@@ -1,0 +1,23 @@
+{
+  "format": "Lightbeam Save File",
+  "version": "1.1",
+  "connections": [
+    [
+      "fefe.de",
+      "fefe.de",
+      1400250052057,
+      "text/html",
+      false,
+      true,
+      false,
+      1,
+      0,
+      "blog.",
+      "blog.",
+      "GET",
+      200,
+      true,
+      false
+    ]
+  ]
+}
