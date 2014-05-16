@@ -1,0 +1,7 @@
+var someData = {
+    "testArray": [
+		"hey",
+		"yay",
+		"oops"
+	]
+};

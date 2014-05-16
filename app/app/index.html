@@ -1,0 +1,36 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html lang="de" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html lang="de" class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html lang="de" class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="de" class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>grunt-template</title>
+        <meta name="viewport" content="width=device-width">
+        <!-- build:css(.tmp) styles/main.css -->
+        <link rel="stylesheet" href="styles/vendor/otherpeoples.css">
+        <link rel="stylesheet" href="styles/main.css">
+        <!-- endbuild -->
+        <!-- build:js scripts/vendor/modernizr.js -->
+        <script src="bower_components/modernizr/modernizr.js"></script>
+        <!-- endbuild -->
+        <!-- build:js scripts/main.js -->
+        <script src="scripts/data/spydata.json"></script>
+        <script data-main="scripts/main" src="bower_components/requirejs/require.js"></script>
+        <!-- endbuild -->
+        <link href='http://fonts.googleapis.com/css?family=Shadows+Into+Light' rel='stylesheet' type='text/css'>
+    </head>
+    <body>
+        <script id="sample-template" type="text/x-handlebars-template">
+            <p>
+                This is a JavaScript handlebars template and there are {{someNumber}} items in the test data.
+            </p>
+        </script>
+
+        <h1>
+            Hi there!
+        </h1>
+
+    </body>
+</html>
