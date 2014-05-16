@@ -52,3 +52,28 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 
+app/.sass-cache
+app/.tmp
+app/dist/
+app/dist-zips/
+app/dev/
+app/temp/
+app/node_modules/
+app/app/bower_components
+
+etc/scripts/output
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# TextMate files
+*.tmproj
+*.tmproject
+tmtags
+
+# SublimeText project files
+*.sublime-project
+*.sublime-workspace
+
+

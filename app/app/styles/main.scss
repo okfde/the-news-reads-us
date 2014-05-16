@@ -1,0 +1,8 @@
+@import "compass/css3";
+$default-transition-function: "ease-in-out";
+
+$font-stack: 'Shadows Into Light', cursive;
+
+h1, h2, h3, h4 {
+    font-family: $font-stack;
+}
