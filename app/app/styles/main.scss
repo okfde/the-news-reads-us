@@ -1,8 +1,91 @@
 @import "compass/css3";
 $default-transition-function: "ease-in-out";
 
-$font-stack: 'Shadows Into Light', cursive;
+$font-stack: 'Bitter', cursive;
 
 h1, h2, h3, h4 {
     font-family: $font-stack;
+}
+
+
+/*
+ * Globals
+ */
+
+a {
+    text-decoration: none;
+}
+a,
+a:focus,
+a:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+
+section {
+    position: relative;
+    overflow: hidden;
+    padding: 50px;
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+.inner {
+    width: 50% 50%;
+}
+
+h1 {
+
+    width: 17em;
+    position: relative;
+    top: 4em;
+    left: 10em;
+    font-size: 45px;
+}
+
+h1 span {
+    font-weight: bold;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+
+}
+
+.newspaper img{
+    width: 676px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.newspaper {
+    background: url("../images/newspaper.jpg") center center no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.online {
+    background: red;
+}
+.read {
+    background: blue;
+}
+.worst {
+    background: #1abc9c;
+}
+
+.save-your-soul {
+    background: #fff;
+}
+
+.mastfoot {
+  height: 100%;
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  text-shadow: 0 1px 3px rgba(0,0,0,.5);
+  box-shadow: inset 0 0 100px rgba(0,0,0,.5);
 }

@@ -8,29 +8,76 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <title>grunt-template</title>
         <meta name="viewport" content="width=device-width">
+        <link rel="stylesheet" href="/bower_components/bootstrap/dist/css/bootstrap.min.css">
         <!-- build:css(.tmp) styles/main.css -->
-        <link rel="stylesheet" href="styles/vendor/otherpeoples.css">
+        <!-- <link rel="stylesheet" href="styles/vendor/otherpeoples.css"> -->
         <link rel="stylesheet" href="styles/main.css">
+
         <!-- endbuild -->
         <!-- build:js scripts/vendor/modernizr.js -->
         <script src="bower_components/modernizr/modernizr.js"></script>
+        <script src="bower_components/jquery/jquery.js"></script>
+        <script src="scripts/vendor/jquery.panelSnap.js"></script>
         <!-- endbuild -->
         <!-- build:js scripts/main.js -->
         <script src="scripts/data/spydata.json"></script>
         <script data-main="scripts/main" src="bower_components/requirejs/require.js"></script>
         <!-- endbuild -->
-        <link href='http://fonts.googleapis.com/css?family=Shadows+Into+Light' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Bitter' rel='stylesheet' type='text/css'>
     </head>
     <body>
-        <script id="sample-template" type="text/x-handlebars-template">
-            <p>
-                This is a JavaScript handlebars template and there are {{someNumber}} items in the test data.
-            </p>
-        </script>
 
-        <h1>
-            Hi there!
-        </h1>
+        <section class="newspaper">
+            <div class="container element">
+                <h1>We used to read the newspaper, <span>now the news reads us.</span></h1>
+
+            </div>
+        </section>
+
+        <section class="online">
+            <h1>Online the news reads you</h1>
+
+            <div style="width: 400px; height: 400px; background-color: white"></div>
+        </section>
+
+        <section class="read">
+            <h1>Read about data protetion online</h1>
+        </section>
+        <section class="worst">
+            <h1>Worst offenders</h1>
+        </section>
+        <section class="save-your-soul">
+            <h1>Install Ghostery?</h1>
+            <img alt="Ghostery" id="header-image" src="https://www.ghostery.com/images/Ghostery-Logo-250px.png">
+        </section>
+
+        <div class="mastfoot">
+            <div class="inner">
+              <p>Made at <a href="http://www.globaleditorsnetwork.org/programmes/editors-lab/season-2013-2014/editors-lab-berlin/">a hackday by <a href="https://twitter.com/stefanwehrmeyer">@stefanwehrmeyer</a>, <a href="twitter.com/annabelchurch">@annabelchurch</a> and <a href="twitter.com/pudo">@pudo</a></p>
+            </div>
+        </div>
+
+        <script>
+            jQuery(function($) {
+                var options = {
+                  $menu: false,
+                  menuSelector: 'a',
+                  panelSelector: 'section',
+
+                  onSnapFinish: function(){ console.log('snap'); },
+
+                  slideSpeed: 1000,
+                  keyboardNavigation: {
+                    enabled: false,
+                    nextPanelKey: 40,
+                    previousPanelKey: 38,
+                    wrapAround: true
+                    }
+                };
+
+                $('body').panelSnap(options);
+            });
+        </script>
 
     </body>
 </html>
