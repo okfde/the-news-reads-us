@@ -65,7 +65,7 @@
 
             </div>
         </section>
-        
+
         <section class="worst">
             <h1>Worst offenders</h1>
             <div id="chart"></div>
@@ -95,25 +95,7 @@
         <script src="scripts/main.js" charset="utf-8"></script>
 
         <script>
-            jQuery(function($) {
-                var options = {
-                  $menu: false,
-                  menuSelector: 'a',
-                  panelSelector: 'section',
 
-                  onSnapFinish: function(){ console.log('snap'); },
-
-                  slideSpeed: 1000,
-                  keyboardNavigation: {
-                    enabled: false,
-                    nextPanelKey: 40,
-                    previousPanelKey: 38,
-                    wrapAround: true
-                    }
-                };
-
-                $('body').panelSnap(options);
-            });
             $.getJSON('data/links.json').then(function(data){
                 window.NewsReadsYou.sankey('#chart', data);
 
