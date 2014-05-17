@@ -19,7 +19,7 @@ def parse_trackers():
     with open(FILE_NAMES, 'rb') as fh:
         ghosteryData = json.load(fh)
 
-        keys = ['company_description','company_name', 'company_in_their_own_words', 'affiliation_groups','company_website_url']
+        keys = ['company_name','company_description','company_in_their_own_words','company_logo_url','company_website_url','affiliation_groups']
         count = 0
         for domainItem in domainsInfo:
             for ghItem in ghosteryData:
