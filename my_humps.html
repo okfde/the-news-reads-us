@@ -58,7 +58,7 @@
       height = 1000 - margin.top - margin.bottom;
 
     var formatNumber = d3.format(",.0f"),
-      format = function(d) { return formatNumber(d) + " TWh"; },
+      format = function(d) { return formatNumber(d); },
       color = d3.scale.category20();
 
     var svg = d3.select("#chart").append("svg")
@@ -72,24 +72,53 @@
       .nodePadding(10)
       .size([width, height]);
 
+    var type_colors = {
+      'ads': '#F2C48D',
+      'track': '#F25050',
+      'social': '#67BFAD',
+      'cdn': '#1D3C42'
+    }
+
+    var legal_colors = {
+      'us': '#F25050',
+      'eu': '#F2EC99',
+      'de': '#1D3C42'
+    }
+
     var path = sankey.link();
 
     d3.json("links.json", function(data) {
-      var nodes = [], node_names = [], links = [];
+      var nodes = [], node_names = [], links = [], link_names = [];
       _.each(data.sites, function(e, n) {
         if (node_names.indexOf(n) == -1) {
-          nodes.push({'name': n});
+          //console.log(e);
+          nodes.push({'name': e.SiteName, 'color': e.Color});
           node_names.push(n);
         }
         var src = node_names.indexOf(n);
         _.each(e.links, function(ni) {
-          if (data.networks[ni].num > 2) {
+          var netw = data.networks[ni];
+          var remoteComp = netw.company_name || 'Others';
+          //console.log(netw);
+          if (netw.num > 2) {
             if (node_names.indexOf(ni) == -1) {
-              nodes.push({'name': ni});
+              //nodes.push({'name': ni, 'color': type_colors[netw.net_type] || '#666'});
+              nodes.push({'name': ni, 'color': '#666'});
               node_names.push(ni);
+            }
+            if (node_names.indexOf(remoteComp) == -1) {
+              nodes.push({'name': remoteComp, 'color': legal_colors[netw.legal_env] || '#666'});
+              node_names.push(remoteComp);
             }
             var tgt = node_names.indexOf(ni);
             links.push({source: src, target: tgt, value: 1});  
+            var tgt2 = node_names.indexOf(remoteComp);
+            //var link_name = tgt + '->' + tgt2;
+            //if (link_names.indexOf(link_name) == -1) {
+              links.push({source: tgt, target: tgt2, value: 1});
+            //  link_names.push(link_name);
+            //}
+            
           }
           
         });
@@ -101,7 +130,7 @@
 
       var energy = {'nodes': nodes, 'links': links};
 
-      console.log(energy);
+      //console.log(energy);
 
       sankey
         .nodes(energy.nodes)
@@ -124,7 +153,7 @@
       .enter().append("g")
         .attr("class", "node")
         .attr("transform", function(d, i) {
-          console.log(i);
+          //console.log(i);
           return "translate(" + d.x + "," + d.y + ")";
         })
       /*.call(d3.behavior.drag()
@@ -135,12 +164,23 @@
       node.append("rect")
         .attr("height", function(d) { return d.dy; })
         .attr("width", sankey.nodeWidth())
-        .style("fill", function(d) { return d.color = color(d.name.replace(/ .*/, "")); })
+        .style("fill", function(d) { return d.color = d.color || color(d.name.replace(/ .*/, "")); })
         .style("stroke", function(d) { return '#fff'; })
         .on('mouseover', function(d) {
-          //console.log(d);
           link.filter(function(e) {
-            return (d.sourceLinks.indexOf(e) != -1 || d.targetLinks.indexOf(e) != -1);
+              if (d.sourceLinks.indexOf(e) != -1 || d.targetLinks.indexOf(e) != -1) return true;
+              var matching = false;
+              d.sourceLinks.forEach(function(x) {
+                if (!matching) {
+                  matching = x.target.sourceLinks.indexOf(e) != -1;
+                }
+              });
+              d.targetLinks.forEach(function(x) {
+                if (!matching) {
+                  matching = x.source.targetLinks.indexOf(e) != -1;
+                }
+              });
+              return matching;
             })
             .classed('active', true);
         })
