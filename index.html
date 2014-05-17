@@ -36,7 +36,20 @@
 
         <section class="read">
             <h1>Read about data protection online</h1>
+            <ul class="nav nav-pills">
+                <li>
+                    <a class="website-link" href="#zeit.de" data-url="http://www.zeit.de/digital/datenschutz/2014-05/eugh-urteilt-ueber-recht-auf-vergessenwerden">Zeit</a>
+                </li>
+                <li>
+                    <a class="website-link" href="#faz.net" data-url="http://www.faz.net/aktuell/politik/thema/datenschutz">FAZ</a>
+                </li>
+                <li>
+                    <a class="website-link" href="#welt.de" data-url="http://www.welt.de/themen/datenschutz/">Welt</a>
+                </li>
+            </ul>
+            <div class="article">
 
+            </div>
         </section>
         <section class="worst">
             <h1>Worst offenders</h1>
@@ -80,6 +93,31 @@
             });
             $.getJSON('data/links.json').then(function(data){
                 window.NewsReadsYou.sankey('#chart', data);
+
+                var showWebsite = function(domain, url) {
+                    var site = data.sites[domain];
+                    var nodes = [];
+                    for (var i = 0; i < site.links.length; i += 1) {
+                        nodes.push(data.networks[site.links[i]]);
+                    }
+                    NewsReadsYou.trackAttack(
+                        '.article',
+                        nodes,
+                        {
+                            width: $('.article').width(),
+                            height: $('.article').height(),
+                            delay: 1500,
+                            interval: 500,
+                        }
+                    );
+                }
+
+                $('.website-link').click(function(e){
+                    e.preventDefault();
+                    var domain = $(this).attr('href').substring(1);
+                    showWebsite(domain, $(this).data('url'));
+                });
+
             });
         </script>
 
