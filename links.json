@@ -179,63 +179,45 @@
         "mxcdn.net"
       ]
     }, 
-    "faz.net": {
-      "num": 55, 
+    "tagesspiegel.de": {
+      "num": 37, 
       "links": [
-        "sitescout.com", 
+        "adform.net", 
         "vgwort.de", 
-        "w55c.net", 
-        "eqads.com", 
         "scorecardresearch.com", 
-        "yieldlab.net", 
-        "gmads.net", 
+        "taboola.com", 
+        "googleadservices.com", 
         "flashtalking.com", 
         "plista.com", 
-        "active-agent.com", 
-        "bizographics.com", 
-        "chartbeat.net", 
-        "criteo.com", 
-        "research.de.com", 
-        "doubleclick.net", 
-        "adsrvr.org", 
-        "eyereturn.com", 
         "ivwbox.de", 
+        "chartbeat.net", 
+        "meetrics.net", 
+        "doubleclick.net", 
+        "brightcove.com", 
+        "edgesuite.net", 
         "chartbeat.com", 
-        "media6degrees.com", 
         "googlesyndication.com", 
         "twitter.com", 
-        "advertising.com", 
-        "m-pathy.com", 
         "o2online.de", 
-        "casalemedia.com", 
-        "domdex.com", 
-        "facebook.com", 
-        "t4ft.de", 
+        "google.de", 
         "adspirit.de", 
-        "heias.com", 
-        "acuityplatform.com", 
         "adnxs.com", 
         "nuggad.net", 
-        "exelator.com", 
         "serving-sys.com", 
-        "refinedads.com", 
-        "1822direkt.com", 
+        "twiago.com", 
+        "llnwd.net", 
         "ioam.de", 
-        "krxd.net", 
-        "facebook.net", 
-        "turn.com", 
-        "tele2.de", 
-        "optmd.com", 
-        "ligatus.com", 
-        "mathtag.com", 
-        "veeseo.com", 
-        "rfihub.com", 
+        "urban-media.com", 
+        "hurra.com", 
+        "media01.eu", 
+        "rubiconproject.com", 
+        "qservz.com", 
         "google.com", 
-        "revsci.net", 
         "adition.com", 
-        "netmng.com", 
-        "intelliad.de", 
-        "360yield.com", 
+        "twimg.com", 
+        "lotto24.de", 
+        "gstatic.com", 
+        "mxcdn.net", 
         "google-analytics.com"
       ]
     }, 
@@ -410,17 +392,6 @@
         "google-analytics.com"
       ]
     }, 
-    "facebook.com": {
-      "num": 6, 
-      "links": [
-        "disqus.com", 
-        "akamaihd.net", 
-        "google.com", 
-        "adition.com", 
-        "fbcdn.net", 
-        "googlesyndication.com"
-      ]
-    }, 
     "sueddeutsche.de": {
       "num": 47, 
       "links": [
@@ -473,45 +444,63 @@
         "google-analytics.com"
       ]
     }, 
-    "tagesspiegel.de": {
-      "num": 37, 
+    "faz.net": {
+      "num": 55, 
       "links": [
-        "adform.net", 
+        "sitescout.com", 
         "vgwort.de", 
+        "w55c.net", 
+        "eqads.com", 
         "scorecardresearch.com", 
-        "taboola.com", 
-        "googleadservices.com", 
+        "yieldlab.net", 
+        "gmads.net", 
         "flashtalking.com", 
         "plista.com", 
-        "ivwbox.de", 
+        "active-agent.com", 
+        "bizographics.com", 
         "chartbeat.net", 
-        "meetrics.net", 
+        "criteo.com", 
+        "research.de.com", 
         "doubleclick.net", 
-        "brightcove.com", 
-        "edgesuite.net", 
+        "adsrvr.org", 
+        "eyereturn.com", 
+        "ivwbox.de", 
         "chartbeat.com", 
+        "media6degrees.com", 
         "googlesyndication.com", 
         "twitter.com", 
+        "advertising.com", 
+        "m-pathy.com", 
         "o2online.de", 
-        "google.de", 
+        "casalemedia.com", 
+        "domdex.com", 
+        "facebook.com", 
+        "t4ft.de", 
         "adspirit.de", 
+        "heias.com", 
+        "acuityplatform.com", 
         "adnxs.com", 
         "nuggad.net", 
+        "exelator.com", 
         "serving-sys.com", 
-        "twiago.com", 
-        "llnwd.net", 
+        "refinedads.com", 
+        "1822direkt.com", 
         "ioam.de", 
-        "urban-media.com", 
-        "hurra.com", 
-        "media01.eu", 
-        "rubiconproject.com", 
-        "qservz.com", 
+        "krxd.net", 
+        "facebook.net", 
+        "turn.com", 
+        "tele2.de", 
+        "optmd.com", 
+        "ligatus.com", 
+        "mathtag.com", 
+        "veeseo.com", 
+        "rfihub.com", 
         "google.com", 
+        "revsci.net", 
         "adition.com", 
-        "twimg.com", 
-        "lotto24.de", 
-        "gstatic.com", 
-        "mxcdn.net", 
+        "netmng.com", 
+        "intelliad.de", 
+        "360yield.com", 
         "google-analytics.com"
       ]
     }, 
@@ -701,20 +690,19 @@
       ]
     }, 
     "googlesyndication.com": {
-      "num": 13, 
+      "num": 12, 
       "links": [
         "wildundhund.de", 
+        "tagesspiegel.de", 
         "heise.de", 
         "huffingtonpost.de", 
         "zeit.de", 
-        "faz.net", 
         "n24.de", 
         "handelsblatt.com", 
         "spiegel.de", 
         "welt.de", 
-        "facebook.com", 
         "sueddeutsche.de", 
-        "tagesspiegel.de", 
+        "faz.net", 
         "bild.de"
       ]
     }, 
@@ -1014,9 +1002,8 @@
       ]
     }, 
     "akamaihd.net": {
-      "num": 3, 
+      "num": 2, 
       "links": [
-        "facebook.com", 
         "huffingtonpost.de", 
         "bild.de"
       ]
@@ -1173,15 +1160,14 @@
       ]
     }, 
     "adition.com": {
-      "num": 8, 
+      "num": 7, 
       "links": [
         "heise.de", 
-        "faz.net", 
+        "tagesspiegel.de", 
         "spiegel.de", 
         "welt.de", 
-        "facebook.com", 
         "sueddeutsche.de", 
-        "tagesspiegel.de", 
+        "faz.net", 
         "n24.de"
       ]
     }, 
@@ -1237,10 +1223,9 @@
       ]
     }, 
     "disqus.com": {
-      "num": 2, 
+      "num": 1, 
       "links": [
-        "welt.de", 
-        "facebook.com"
+        "welt.de"
       ]
     }, 
     "congstar.de": {
@@ -1364,12 +1349,6 @@
       "num": 1, 
       "links": [
         "heise.de"
-      ]
-    }, 
-    "fbcdn.net": {
-      "num": 1, 
-      "links": [
-        "facebook.com"
       ]
     }, 
     "research.de.com": {
@@ -1834,7 +1813,7 @@
       ]
     }, 
     "google.com": {
-      "num": 11, 
+      "num": 10, 
       "links": [
         "wildundhund.de", 
         "huffingtonpost.de", 
@@ -1843,7 +1822,6 @@
         "handelsblatt.com", 
         "spiegel.de", 
         "welt.de", 
-        "facebook.com", 
         "sueddeutsche.de", 
         "tagesspiegel.de", 
         "bild.de"
