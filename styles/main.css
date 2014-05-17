@@ -8,13 +8,17 @@ h2 {
 }
 
 a {
+    color: #000;
     text-decoration: none;
 }
 
 a:focus,
 a:hover {
-  color: #fff;
+  color: #000;
   text-decoration: underline;
+}
+.mastfoot a {
+  color: #fff;
 }
 
 p {
@@ -202,4 +206,8 @@ html, body {
 
 #read-experience {
   margin-top: 3em;
+}
+
+.who-follows {
+  text-align: right;
 }
