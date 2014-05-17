@@ -1,12 +1,28 @@
 import os
 import json
 import csv
+from StringIO import StringIO
+import requests
 from collections import defaultdict
 
 DIR_NAME = 'data/sites/'
+TRACKERS = 'https://docs.google.com/spreadsheets/d/1KVLSX33T2-dhoedNGETwlowTfxmhIr2fyMo568i7miQ/export?format=csv&id=1KVLSX33T2-dhoedNGETwlowTfxmhIr2fyMo568i7miQ&gid=649868051'
+NEWS = 'https://docs.google.com/spreadsheets/d/1KVLSX33T2-dhoedNGETwlowTfxmhIr2fyMo568i7miQ/export?format=csv&id=1KVLSX33T2-dhoedNGETwlowTfxmhIr2fyMo568i7miQ&gid=0'
+
+def get_csv(url, by):
+    res = requests.get(url)
+    sio = StringIO(res.content)
+    data = {}
+    for row in csv.DictReader(sio):
+        data[row.get(by)] = row
+    return data
 
 
 def parse_stats():
+
+    trackers = get_csv(TRACKERS, 'domain')
+    news = get_csv(NEWS, 'SiteID')
+
     #fhw = open('lightbeam.csv', 'wb')
     #writer = csv.writer(fhw)
     #writer.writerow(['source', 'target', 'contentType', 'sourceSub',
@@ -32,7 +48,12 @@ def parse_stats():
     def conv(s):
         data = {}
         for e, n in s.items():
-            data[e] = {'num': len(n), 'links': list(n)}
+            i = {'num': len(n), 'links': list(n)}
+            if e in trackers:
+                i.update(trackers[e])
+            if e in news:
+                i.update(news[e])
+            data[e] = i
         return data
 
     with open('links.json', 'wb') as fh:
