@@ -1,5 +1,5 @@
 
-h1, h2, h3, h4 {
+h1, h2, h3, h4, section {
     font-family: 'Bitter', cursive;
 }
 
@@ -13,26 +13,29 @@ a:hover {
   text-decoration: underline;
 }
 
+p {
+ font-size: 1.6em;
+}
+
 section {
     position: relative;
-    overflow: hidden;
     padding: 50px;
     width: 100%;
     height: 100%;
     display: block;
 }
 
-.inner {
-    width: 50% 50%;
+.element {
+    width: 740px;
 }
 
 .newspaper h1 {
-
-    width: 17em;
-    position: relative;
-    top: 4em;
-    left: 10em;
-    font-size: 45px;
+  width: 17em;
+  font-size: 50px;
+  vertical-align: bottom;
+  position: absolute;
+  right: 0;
+  bottom: 3em;
 }
 
 .newspaper h1 span {
@@ -54,10 +57,28 @@ html, body {
 }
 
 .newspaper {
-    background: url("../images/newspaper.jpg") center center no-repeat;
+
+   b-ackground: -moz-linear-gradient(top, rgba(0,0,0,0) 7%, rgba(0,0,0,0.1) 19%, rgba(0,0,0,0.65) 84%, rgba(0,0,0,0.65) 100%),url("../images/newspaper.jpg"); /* FF3.6+ */
+   b-ackground: -webkit-gradient(linear, left top, left bottom, color-stop(7%,rgba(0,0,0,0)), color-stop(19%,rgba(0,0,0,0.1)), color-stop(84%,rgba(0,0,0,0.65)), color-stop(100%,rgba(0,0,0,0.65))),url("../images/newspaper.jpg"); /* Chrome,Safari4+ */
+   b-ackground: -webkit-linear-gradient(top, rgba(0,0,0,0) 7%,rgba(0,0,0,0.1) 19%,rgba(0,0,0,0.65) 84%,rgba(0,0,0,0.65) 100%),url("../images/newspaper.jpg"); /* Chrome10+,Safari5.1+ */
+   b-ackground: -o-linear-gradient(top, rgba(0,0,0,0) 7%,rgba(0,0,0,0.1) 19%,rgba(0,0,0,0.65) 84%,rgba(0,0,0,0.65) 100%),url("../images/newspaper.jpg"); /* Opera 11.10+ */
+   b-ackground: -ms-linear-gradient(top, rgba(0,0,0,0) 7%,rgba(0,0,0,0.1) 19%,rgba(0,0,0,0.65) 84%,rgba(0,0,0,0.65) 100%),url("../images/newspaper.jpg"); /* IE10+ */
+   b-ackground: linear-gradient(to bottom, rgba(0,0,0,0) 7%,rgba(0,0,0,0.1) 19%,rgba(0,0,0,0.65) 84%,rgba(0,0,0,0.65) 100%),url("../images/newspaper.jpg"); /* W3C */
+
+    background: url("../images/newspaper.jpg");
+    background-color: #fff;
     background-size: cover;
     width: 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
 }
+
+.newspaper h1{
+    background-color: white;
+    padding: 0.5em;
+}
+
+
 .online {
     background: red;
 }
