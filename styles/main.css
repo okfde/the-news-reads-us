@@ -100,6 +100,14 @@ html, body {
     background: #555;
 }
 
+.worst h2, .worst p {
+    color: #fff;
+}
+
+.worst .element {
+  width: 940px;
+}
+
 .save-your-soul {
     background: #fff;
 }
