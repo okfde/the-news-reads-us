@@ -8,20 +8,15 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <title>grunt-template</title>
         <meta name="viewport" content="width=device-width">
-        <link rel="stylesheet" href="/bower_components/bootstrap/dist/css/bootstrap.min.css">
+        <link rel="stylesheet" href="styles/bootstrap.min.css">
         <!-- build:css(.tmp) styles/main.css -->
         <!-- <link rel="stylesheet" href="styles/vendor/otherpeoples.css"> -->
         <link rel="stylesheet" href="styles/main.css">
 
         <!-- endbuild -->
         <!-- build:js scripts/vendor/modernizr.js -->
-        <script src="bower_components/modernizr/modernizr.js"></script>
-        <script src="bower_components/jquery/jquery.js"></script>
+        <script src="scripts/vendor/jquery.min.js"></script>
         <script src="scripts/vendor/jquery.panelSnap.js"></script>
-        <!-- endbuild -->
-        <!-- build:js scripts/main.js -->
-        <script src="scripts/data/spydata.json"></script>
-        <script data-main="scripts/main" src="bower_components/requirejs/require.js"></script>
         <!-- endbuild -->
         <link href='http://fonts.googleapis.com/css?family=Bitter' rel='stylesheet' type='text/css'>
     </head>
@@ -37,14 +32,15 @@
         <section class="online">
             <h1>Online the news reads you</h1>
 
-
         </section>
 
         <section class="read">
-            <h1>Read about data protetion online</h1>
+            <h1>Read about data protection online</h1>
+
         </section>
         <section class="worst">
             <h1>Worst offenders</h1>
+            <div id="chart"></div>
         </section>
         <section class="save-your-soul">
             <h1>Install Ghostery?</h1>
@@ -56,6 +52,11 @@
               <p>Made at <a href="http://www.globaleditorsnetwork.org/programmes/editors-lab/season-2013-2014/editors-lab-berlin/">a hackday by <a href="https://twitter.com/stefanwehrmeyer">@stefanwehrmeyer</a>, <a href="twitter.com/annabelchurch">@annabelchurch</a> and <a href="twitter.com/pudo">@pudo</a></p>
             </div>
         </div>
+
+        <script src="scripts/vendor/d3.min.js" charset="utf-8"></script>
+        <script src="scripts/vendor/d3-sankey.js" charset="utf-8"></script>
+        <script src="scripts/vendor/underscore-min.js" charset="utf-8"></script>
+        <script src="scripts/main.js" charset="utf-8"></script>
 
         <script>
             jQuery(function($) {
@@ -76,6 +77,9 @@
                 };
 
                 $('body').panelSnap(options);
+            });
+            $.getJSON('data/links.json').then(function(data){
+                window.NewsReadsYou.sankey('#chart', data);
             });
         </script>
 

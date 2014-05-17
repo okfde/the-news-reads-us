@@ -1,10 +1,6 @@
-@import "compass/css3";
-$default-transition-function: "ease-in-out";
-
-$font-stack: 'Bitter', cursive;
 
 h1, h2, h3, h4 {
-    font-family: $font-stack;
+    font-family: 'Bitter', cursive;
 }
 
 a {
@@ -83,4 +79,32 @@ html, body {
   text-align: center;
   text-shadow: 0 1px 3px rgba(0,0,0,.5);
   box-shadow: inset 0 0 100px rgba(0,0,0,.5);
+}
+
+
+#chart {
+  height: 1000px;
+}
+
+.node rect {
+  cursor: pointer;
+  fill-opacity: .9;
+  shape-rendering: crispEdges;
+}
+
+.node text {
+  pointer-events: none;
+  fill: #fff;
+  shape-rendering: crispEdges;
+  text-shadow: 0 2px 2px #000;
+}
+
+.link {
+  fill: none;
+  stroke: #fff;
+  stroke-opacity: 0.1;
+}
+
+.link:hover, .link.active {
+  stroke-opacity: .8;
 }
