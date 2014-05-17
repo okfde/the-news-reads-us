@@ -50,7 +50,20 @@
         </section>
         <section class="read">
             <h1>Read about data protection online</h1>
+            <ul class="nav nav-pills">
+                <li>
+                    <a class="website-link" href="#zeit.de" data-url="http://www.zeit.de/digital/datenschutz/2014-05/eugh-urteilt-ueber-recht-auf-vergessenwerden">Zeit</a>
+                </li>
+                <li>
+                    <a class="website-link" href="#faz.net" data-url="http://www.faz.net/aktuell/politik/thema/datenschutz">FAZ</a>
+                </li>
+                <li>
+                    <a class="website-link" href="#welt.de" data-url="http://www.welt.de/themen/datenschutz/">Welt</a>
+                </li>
+            </ul>
+            <div class="article">
 
+            </div>
         </section>
         <section class="worst">
             <h1>Worst offenders</h1>
@@ -68,7 +81,7 @@
 
         <div class="mastfoot">
             <div class="inner">
-              <p>Made at <a href="http://www.globaleditorsnetwork.org/programmes/editors-lab/season-2013-2014/editors-lab-berlin/">a hackday by <a href="https://twitter.com/stefanwehrmeyer">@stefanwehrmeyer</a>, <a href="twitter.com/annabelchurch">@annabelchurch</a> and <a href="twitter.com/pudo">@pudo</a></p>
+              <p>Made at <a href="http://www.globaleditorsnetwork.org/programmes/editors-lab/season-2013-2014/editors-lab-berlin/">the GEN Editor's Lab Berlin 2014</a> by <a href="https://twitter.com/stefanwehrmeyer">@stefanwehrmeyer</a>, <a href="twitter.com/annabelchurch">@annabelchurch</a> and <a href="twitter.com/pudo">@pudo</a></p>
             </div>
         </div>
 
@@ -99,6 +112,31 @@
             });
             $.getJSON('data/links.json').then(function(data){
                 window.NewsReadsYou.sankey('#chart', data);
+
+                var showWebsite = function(domain, url) {
+                    var site = data.sites[domain];
+                    var nodes = [];
+                    for (var i = 0; i < site.links.length; i += 1) {
+                        nodes.push(data.networks[site.links[i]]);
+                    }
+                    NewsReadsYou.trackAttack(
+                        '.article',
+                        nodes,
+                        {
+                            width: $('.article').width(),
+                            height: $('.article').height(),
+                            delay: 1500,
+                            interval: 500,
+                        }
+                    );
+                }
+
+                $('.website-link').click(function(e){
+                    e.preventDefault();
+                    var domain = $(this).attr('href').substring(1);
+                    showWebsite(domain, $(this).data('url'));
+                });
+
             });
         </script>
 
