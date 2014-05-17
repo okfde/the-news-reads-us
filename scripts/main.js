@@ -44,7 +44,7 @@
     _.each(data.sites, function(e, n) {
       if (node_names.indexOf(n) == -1) {
         //console.log(e);
-        nodes.push({'name': e.SiteName,
+        nodes.push({'name': e.SiteName + ' (' + e.num + ')',
           'color': e.Color,
           'id': node_index++,
           'url': e.SiteURL
