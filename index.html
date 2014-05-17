@@ -52,13 +52,18 @@
             <h1>Read about data protection online</h1>
             <ul class="nav nav-pills">
                 <li>
-                    <a class="website-link" href="#zeit.de" data-url="http://www.zeit.de/digital/datenschutz/2014-05/eugh-urteilt-ueber-recht-auf-vergessenwerden">Zeit</a>
+                    <a class="website-link" href="#zeit.de">Zeit</a>
                 </li>
                 <li>
-                    <a class="website-link" href="#faz.net" data-url="http://www.faz.net/aktuell/politik/thema/datenschutz">FAZ</a>
+                    <a class="website-link" href="#faz.net">FAZ</a>
                 </li>
                 <li>
-                    <a class="website-link" href="#welt.de" data-url="http://www.welt.de/themen/datenschutz/">Welt</a>
+                    <a class="website-link" href="#welt.de">Welt</a>
+                </li>
+                <li>
+                    <a class="website-link" href="#sueddeutsche.de">
+                        Süddeutsche.de
+                    </a>
                 </li>
             </ul>
             <div class="article">
@@ -116,8 +121,13 @@
             });
             $.getJSON('data/links.json').then(function(data){
                 window.NewsReadsYou.sankey('#chart', data);
+                var currentWebsite = null;
 
-                var showWebsite = function(domain, url) {
+                var showWebsite = function(domain) {
+                    if (currentWebsite === domain) {
+                        return;
+                    }
+                    $('.article').css('background', '#fff url("images/' + domain + '.png") left top no-repeat')
                     var site = data.sites[domain];
                     var nodes = [];
                     for (var i = 0; i < site.links.length; i += 1) {
@@ -129,16 +139,19 @@
                         {
                             width: $('.article').width(),
                             height: $('.article').height(),
-                            delay: 1500,
+                            delay: 1000,
                             interval: 500,
                         }
                     );
-                }
+                };
+
+                showWebsite('zeit.de');
 
                 $('.website-link').click(function(e){
                     e.preventDefault();
                     var domain = $(this).attr('href').substring(1);
-                    showWebsite(domain, $(this).data('url'));
+                    showWebsite(domain);
+                    currentWebsite = domain;
                 });
 
             });
