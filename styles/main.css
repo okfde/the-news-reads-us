@@ -94,8 +94,13 @@ html, body {
 }
 .read {
     background: #ccc;
-    padding: 5em 0;
+    padding: 2em 0 20em;
 }
+
+.read .container {
+  width: 940px;
+}
+
 .worst {
     background: #555;
 }
@@ -161,7 +166,7 @@ html, body {
 
 .article {
     position: relative;
-    width: 740px;
+    width: 940px;
     height: 1240px;
 }
 .website {
@@ -183,5 +188,11 @@ html, body {
 .read-nav li a,
 .read-nav li a:hover {
   background-color: #555;
+  color: #fff;
 /*  text-decoration: none;*/
+}
+
+.read-nav li a.active {
+  background-color: #333;
+  border: 1px solid #fff;
 }
