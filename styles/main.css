@@ -129,7 +129,7 @@ html, body {
   stroke-opacity: 0.1;
 }
 
-.link:hover, .link.active {
+.link.active {
   stroke-opacity: .8;
 }
 
