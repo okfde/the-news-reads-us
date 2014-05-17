@@ -94,7 +94,7 @@ html, body {
 }
 .read {
     background: #ccc;
-    padding: 2em 0 20em;
+    padding: 2em 0 0;
 }
 
 .read .container {
@@ -185,6 +185,9 @@ html, body {
     font-weight: bold;
 }
 
+.read-nav {
+  margin-bottom: 1em;
+}
 .read-nav li a,
 .read-nav li a:hover {
   background-color: #555;
@@ -195,4 +198,8 @@ html, body {
 .read-nav li a.active {
   background-color: #333;
   border: 1px solid #fff;
+}
+
+#read-experience {
+  margin-top: 3em;
 }
