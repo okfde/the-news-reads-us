@@ -172,3 +172,8 @@ html, body {
     font-weight: bold;
 }
 
+.read-nav li a,
+.read-nav li a:hover {
+  background-color: #555;
+/*  text-decoration: none;*/
+}
