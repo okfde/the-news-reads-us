@@ -86,7 +86,8 @@ html, body {
     background: red;
 }
 .read {
-    background: blue;
+    background: #ccc;
+    padding: 5em 0;
 }
 .worst {
     background: #1abc9c;

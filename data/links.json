@@ -939,7 +939,7 @@
         "spiegel.de", 
         "tagesspiegel.de"
       ], 
-      "company_logo_url": "", 
+      "company_logo_url": "https://ba-cdn.ghostery.com/logos/meetrics.png", 
       "num": 5, 
       "net_type": "track", 
       "company_name": "Meetrics GmbH", 
@@ -2095,7 +2095,7 @@
         "zeit.de", 
         "faz.net"
       ], 
-      "company_logo_url": "", 
+      "company_logo_url": "https://ba-cdn.ghostery.com/logos/meetrics.png", 
       "num": 3, 
       "net_type": "track", 
       "company_name": "Meetrics GmbH", 

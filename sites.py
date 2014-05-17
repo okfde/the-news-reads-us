@@ -56,7 +56,7 @@ def parse_stats():
             data[e] = i
         return data
 
-    with open('links.json', 'wb') as fh:
+    with open('data/links.json', 'wb') as fh:
         data = {'sites': conv(news2sites), 'networks': conv(sites2news)}
         json.dump(data, fh, indent=2)
 
