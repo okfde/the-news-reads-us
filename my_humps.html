@@ -14,29 +14,36 @@
     <link href='http://fonts.googleapis.com/css?family=Shadows+Into+Light' rel='stylesheet' type='text/css'>
     <style>
 
+      body {
+        background-color: #555;        
+        color: #fff;
+      }
+
       #chart {
         height: 1000px;
       }
 
       .node rect {
-        cursor: move;
+        cursor: pointer;
         fill-opacity: .9;
         shape-rendering: crispEdges;
       }
 
       .node text {
         pointer-events: none;
-        text-shadow: 0 1px 0 #fff;
+        fill: #fff;
+        shape-rendering: crispEdges;
+        text-shadow: 0 2px 2px #000;
       }
 
       .link {
         fill: none;
-        stroke: #000;
-        stroke-opacity: .05;
+        stroke: #fff;
+        stroke-opacity: 0.1;
       }
 
       .link:hover, .link.active {
-        stroke-opacity: .4;
+        stroke-opacity: .8;
       }
 
     </style>
@@ -93,7 +100,11 @@
       _.each(data.sites, function(e, n) {
         if (node_names.indexOf(n) == -1) {
           //console.log(e);
-          nodes.push({'name': e.SiteName, 'color': e.Color, 'id': node_index++});
+          nodes.push({'name': e.SiteName,
+            'color': e.Color,
+            'id': node_index++,
+            'url': e.SiteURL
+          });
           node_names.push(n);
         }
         var src = node_names.indexOf(n);
@@ -104,11 +115,15 @@
           if (netw.num > 2) {
             if (node_names.indexOf(ni) == -1) {
               //nodes.push({'name': ni, 'color': type_colors[netw.net_type] || '#666'});
-              nodes.push({'name': ni, 'color': '#666', 'id': node_index++});
+              nodes.push({'name': ni, 'color': '#ddd', 'id': node_index++});
               node_names.push(ni);
             }
             if (node_names.indexOf(remoteComp) == -1) {
-              nodes.push({'name': remoteComp, 'color': legal_colors[netw.legal_env] || '#666', 'id': node_index++});
+              nodes.push({'name': remoteComp,
+                'color': legal_colors[netw.legal_env] || '#666',
+                'id': node_index++,
+                'url': netw.company_website_url
+                });
               node_names.push(remoteComp);
             }
             var tgt = node_names.indexOf(ni);
@@ -166,7 +181,7 @@
         .attr("height", function(d) { return d.dy; })
         .attr("width", sankey.nodeWidth())
         .style("fill", function(d) { return d.color = d.color || color(d.name.replace(/ .*/, "")); })
-        .style("stroke", function(d) { return '#fff'; })
+        .style("stroke", function(d) { return '#000'; })
         .on('mouseover', function(d) {
           var seen = [];
           link.filter(function(e) {
@@ -196,6 +211,11 @@
         })
         .on('mouseout', function(d) {
           link.classed('active', false);
+        })
+        .on('click', function(d) {
+          if (d.url) {
+            window.location.href = d.url;
+          }
         })
       .append("title")
         .text(function(d) { return d.name + "\n" + format(d.value); });
