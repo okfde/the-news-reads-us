@@ -61,7 +61,7 @@
                         </a>
                     </li>
                 </ul>
-                <div class="article">
+                <div class="article" style="display: none">
 
                 </div>
             </div>
@@ -107,19 +107,23 @@
 
             $.getJSON('data/links.json').then(function(data){
                 window.NewsReadsYou.sankey('#chart', data);
-                var currentWebsite = null;
+                var currentWebsite = null, trackAttack;
 
                 var showWebsite = function(domain) {
                     if (currentWebsite === domain) {
                         return;
                     }
-                    $('.article').css('background', '#fff url("images/' + domain + '.png") left top no-repeat')
+                    $('.article').css('background', '#fff url("images/' + domain + '.png") left top no-repeat');
                     var site = data.sites[domain];
                     var nodes = [];
                     for (var i = 0; i < site.links.length; i += 1) {
                         nodes.push(data.networks[site.links[i]]);
                     }
-                    NewsReadsYou.trackAttack(
+                    if (trackAttack) {
+                        trackAttack.destroy();
+                        $('.article').html('');
+                    }
+                    trackAttack = NewsReadsYou.trackAttack(
                         '.article',
                         nodes,
                         {
@@ -133,6 +137,7 @@
 
                 $('.website-link').click(function(e){
                     e.preventDefault();
+                    $('.article').show();
                     var domain = $(this).attr('href').substring(1);
                     showWebsite(domain);
                     currentWebsite = domain;
