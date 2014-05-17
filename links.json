@@ -1,8 +1,10 @@
 {
   "sites": {
     "wildundhund.de": {
+      "count": "1", 
       "domain": "wildundhund.de", 
       "SiteURL": "http://www.wildundhund.de/", 
+      "legal_env": "", 
       "links": [
         "paulparey.de", 
         "googletagservices.com", 
@@ -18,23 +20,25 @@
         "facebook.com", 
         "google-analytics.com"
       ], 
+      "SiteName": "Wild und Hund", 
       "Items": "", 
       "DS_Day": "0", 
       "company_logo_url": "", 
       "Sites": "13", 
-      "num": 13, 
-      "SiteID": "wildundhund.de", 
-      "DSURL": "", 
-      "count": "1", 
-      "SiteName": "Wild und Hund", 
       "Color": "#8a7e63", 
+      "num": 13, 
+      "net_type": "", 
       "company_name": "", 
+      "DSURL": "", 
+      "SiteID": "wildundhund.de", 
       "company_website_url": "", 
       "RSS": "n/a?"
     }, 
     "heise.de": {
+      "count": "1", 
       "domain": "heise.de", 
       "SiteURL": "http://www.heise.de/", 
+      "legal_env": "", 
       "links": [
         "ligatus.com", 
         "scorecardresearch.com", 
@@ -56,23 +60,25 @@
         "simpli.fi", 
         "vgwort.de"
       ], 
+      "SiteName": "heise online", 
       "Items": "30", 
       "DS_Day": "3.75", 
       "company_logo_url": "", 
       "Sites": "4", 
-      "num": 19, 
-      "SiteID": "heise.de", 
-      "DSURL": "http://www.heise.de/thema/Datenschutz?view=atom", 
-      "count": "1", 
-      "SiteName": "heise online", 
       "Color": "#ddd", 
+      "num": 19, 
+      "net_type": "", 
       "company_name": "", 
+      "DSURL": "http://www.heise.de/thema/Datenschutz?view=atom", 
+      "SiteID": "heise.de", 
       "company_website_url": "", 
       "RSS": ""
     }, 
     "bild.de": {
+      "count": "1", 
       "domain": "bild.de", 
       "SiteURL": "http://www.bild.de/", 
+      "legal_env": "", 
       "links": [
         "adform.net", 
         "webmasterplan.com", 
@@ -119,23 +125,25 @@
         "affil.io", 
         "outbrain.com"
       ], 
+      "SiteName": "BILD", 
       "Items": "", 
       "DS_Day": "0", 
       "company_logo_url": "", 
       "Sites": "45", 
-      "num": 44, 
-      "SiteID": "bild.de", 
-      "DSURL": "http://www.bild.de/themen/specials/datenschutz/news-fotos-videos-17025432.bild.html", 
-      "count": "1", 
-      "SiteName": "BILD", 
       "Color": "#d00", 
+      "num": 44, 
+      "net_type": "", 
       "company_name": "", 
+      "DSURL": "http://www.bild.de/themen/specials/datenschutz/news-fotos-videos-17025432.bild.html", 
+      "SiteID": "bild.de", 
       "company_website_url": "", 
       "RSS": ""
     }, 
     "huffingtonpost.de": {
+      "count": "1", 
       "domain": "huffingtonpost.de", 
       "SiteURL": "http://www.huffingtonpost.de/", 
+      "legal_env": "", 
       "links": [
         "adform.net", 
         "googletagservices.com", 
@@ -179,23 +187,25 @@
         "outbrain.com", 
         "huffpost.com"
       ], 
+      "SiteName": "Huffington Post ", 
       "Items": "25", 
       "DS_Day": "1.388888889", 
       "company_logo_url": "", 
       "Sites": "42", 
-      "num": 41, 
-      "SiteID": "huffingtonpost.de", 
-      "DSURL": "http://www.huffingtonpost.de/news/datenschutz/", 
-      "count": "1", 
-      "SiteName": "Huffington Post ", 
       "Color": "#058b7b", 
+      "num": 41, 
+      "net_type": "", 
       "company_name": "", 
+      "DSURL": "http://www.huffingtonpost.de/news/datenschutz/", 
+      "SiteID": "huffingtonpost.de", 
       "company_website_url": "", 
       "RSS": ""
     }, 
     "zeit.de": {
+      "count": "1", 
       "domain": "zeit.de", 
       "SiteURL": "http://www.zeit.de/index", 
+      "legal_env": "", 
       "links": [
         "sitescout.com", 
         "vgwort.de", 
@@ -235,23 +245,25 @@
         "360yield.com", 
         "mxcdn.net"
       ], 
+      "SiteName": "ZEIT ONLINE", 
       "Items": "15", 
       "DS_Day": "1.071428571", 
       "company_logo_url": "", 
       "Sites": "38", 
-      "num": 37, 
-      "SiteID": "zeit.de", 
-      "DSURL": "", 
-      "count": "1", 
-      "SiteName": "ZEIT ONLINE", 
       "Color": "#666", 
+      "num": 37, 
+      "net_type": "", 
       "company_name": "", 
+      "DSURL": "", 
+      "SiteID": "zeit.de", 
       "company_website_url": "", 
       "RSS": "http://newsfeed.zeit.de/schlagworte/themen/datenschutz/index"
     }, 
     "tagesspiegel.de": {
+      "count": "1", 
       "domain": "tagesspiegel.de", 
       "SiteURL": "http://www.tagesspiegel.de/", 
+      "legal_env": "", 
       "links": [
         "adform.net", 
         "vgwort.de", 
@@ -291,23 +303,25 @@
         "mxcdn.net", 
         "google-analytics.com"
       ], 
+      "SiteName": "Tagesspiegel", 
       "Items": "8", 
       "DS_Day": "0.050955414", 
       "company_logo_url": "", 
       "Sites": "36", 
+      "Color": "#990000", 
       "num": 37, 
-      "SiteID": "tagesspiegel.de", 
-      "DSURL": "http://www.tagesspiegel.de/themen/datenschutz/", 
-      "count": "1", 
-      "SiteName": "Tagesspiegel", 
-      "Color": "#EFEDE4", 
+      "net_type": "", 
       "company_name": "", 
+      "DSURL": "http://www.tagesspiegel.de/themen/datenschutz/", 
+      "SiteID": "tagesspiegel.de", 
       "company_website_url": "", 
       "RSS": ""
     }, 
     "n24.de": {
+      "count": "1", 
       "domain": "n24.de", 
       "SiteURL": "http://www.n24.de/n24/", 
+      "legal_env": "", 
       "links": [
         "gartenxxl.de", 
         "scorecardresearch.com", 
@@ -338,23 +352,25 @@
         "outbrain.com", 
         "ad-srv.net"
       ], 
+      "SiteName": "N24", 
       "Items": "", 
       "DS_Day": "0", 
       "company_logo_url": "", 
       "Sites": "28", 
-      "num": 28, 
-      "SiteID": "n24.de", 
-      "DSURL": "", 
-      "count": "1", 
-      "SiteName": "N24", 
       "Color": "#f57709", 
+      "num": 28, 
+      "net_type": "", 
       "company_name": "", 
+      "DSURL": "", 
+      "SiteID": "n24.de", 
       "company_website_url": "", 
       "RSS": ""
     }, 
     "handelsblatt.com": {
+      "count": "1", 
       "domain": "handelsblatt.com", 
       "SiteURL": "http://www.handelsblatt.com/", 
+      "legal_env": "", 
       "links": [
         "vgwort.de", 
         "w55c.net", 
@@ -388,23 +404,25 @@
         "google-analytics.com", 
         "outbrain.com"
       ], 
+      "SiteName": "Handelsblatt", 
       "Items": "40", 
       "DS_Day": "2.5", 
       "company_logo_url": "", 
       "Sites": "31", 
-      "num": 31, 
-      "SiteID": "handelsblatt.com", 
-      "DSURL": "", 
-      "count": "1", 
-      "SiteName": "Handelsblatt", 
       "Color": "#ee7000", 
+      "num": 31, 
+      "net_type": "", 
       "company_name": "", 
+      "DSURL": "", 
+      "SiteID": "handelsblatt.com", 
       "company_website_url": "", 
       "RSS": ""
     }, 
     "spiegel.de": {
+      "count": "1", 
       "domain": "spiegel.de", 
       "SiteURL": "http://www.spiegel.de/", 
+      "legal_env": "", 
       "links": [
         "adform.net", 
         "googletagservices.com", 
@@ -440,23 +458,25 @@
         "mxcdn.net", 
         "google-analytics.com"
       ], 
+      "SiteName": "SPIEGEL ONLINE", 
       "Items": "50", 
       "DS_Day": "0.279329609", 
       "company_logo_url": "", 
       "Sites": "33", 
+      "Color": "#990000", 
       "num": 33, 
-      "SiteID": "spiegel.de", 
-      "DSURL": "", 
-      "count": "1", 
-      "SiteName": "SPIEGEL ONLINE", 
-      "Color": "#99000", 
+      "net_type": "", 
       "company_name": "", 
+      "DSURL": "", 
+      "SiteID": "spiegel.de", 
       "company_website_url": "", 
       "RSS": "http://www.spiegel.de/thema/datenschutz/dossier.rss"
     }, 
     "welt.de": {
+      "count": "1", 
       "domain": "welt.de", 
       "SiteURL": "http://www.welt.de/", 
+      "legal_env": "", 
       "links": [
         "adform.net", 
         "disqus.com", 
@@ -518,23 +538,25 @@
         "ru4.com", 
         "google-analytics.com"
       ], 
+      "SiteName": "Die Welt", 
       "Items": "", 
       "DS_Day": "0", 
       "company_logo_url": "", 
       "Sites": "58", 
-      "num": 59, 
-      "SiteID": "welt.de", 
-      "DSURL": "http://www.welt.de/themen/datenschutz/", 
-      "count": "1", 
-      "SiteName": "Die Welt", 
       "Color": "#0871a5", 
+      "num": 59, 
+      "net_type": "", 
       "company_name": "", 
+      "DSURL": "http://www.welt.de/themen/datenschutz/", 
+      "SiteID": "welt.de", 
       "company_website_url": "", 
       "RSS": ""
     }, 
     "sueddeutsche.de": {
+      "count": "1", 
       "domain": "sueddeutsche.de", 
       "SiteURL": "http://www.sueddeutsche.de/", 
+      "legal_env": "", 
       "links": [
         "msn.com", 
         "plista.com", 
@@ -584,23 +606,25 @@
         "facebook.net", 
         "google-analytics.com"
       ], 
+      "SiteName": "S\u00fcddeutsche.de", 
       "Items": "15", 
       "DS_Day": "0.340909091", 
       "company_logo_url": "", 
       "Sites": "48", 
-      "num": 47, 
-      "SiteID": "sueddeutsche.de", 
-      "DSURL": "", 
-      "count": "1", 
-      "SiteName": "S\u00fcddeutsche.de", 
       "Color": "#009999", 
+      "num": 47, 
+      "net_type": "", 
       "company_name": "", 
+      "DSURL": "", 
+      "SiteID": "sueddeutsche.de", 
       "company_website_url": "", 
       "RSS": "http://suche.sueddeutsche.de/query/Datenschutz/sort/-news/drilldown/%C2%A7concepts%3A%5EDatenschutz%24?output=rss"
     }, 
     "faz.net": {
+      "count": "1", 
       "domain": "faz.net", 
       "SiteURL": "http://www.faz.net/", 
+      "legal_env": "", 
       "links": [
         "sitescout.com", 
         "vgwort.de", 
@@ -658,46 +682,50 @@
         "360yield.com", 
         "google-analytics.com"
       ], 
+      "SiteName": "FAZ.net", 
       "Items": "25", 
       "DS_Day": "0.099601594", 
       "company_logo_url": "", 
       "Sites": "55", 
-      "num": 55, 
-      "SiteID": "faz.net", 
-      "DSURL": "http://www.faz.net/aktuell/politik/thema/datenschutz", 
-      "count": "1", 
-      "SiteName": "FAZ.net", 
       "Color": "#FFD700", 
+      "num": 55, 
+      "net_type": "", 
       "company_name": "", 
+      "DSURL": "http://www.faz.net/aktuell/politik/thema/datenschutz", 
+      "SiteID": "faz.net", 
       "company_website_url": "", 
       "RSS": ""
     }, 
     "tagesschau.de": {
+      "count": "1", 
       "domain": "tagesschau.de", 
       "SiteURL": "http://www.tagesschau.de/", 
+      "legal_env": "", 
       "links": [
         "adform.net", 
         "ard.de", 
         "sitestat.com", 
         "ivwbox.de"
       ], 
+      "SiteName": "Tagesschau", 
       "Items": "", 
       "DS_Day": "0", 
       "company_logo_url": "", 
       "Sites": "3", 
-      "num": 4, 
-      "SiteID": "tagesschau.de", 
-      "DSURL": "", 
-      "count": "1", 
-      "SiteName": "Tagesschau", 
       "Color": "#193e89", 
+      "num": 4, 
+      "net_type": "", 
       "company_name": "", 
+      "DSURL": "", 
+      "SiteID": "tagesschau.de", 
       "company_website_url": "", 
       "RSS": ""
     }, 
     "taz.de": {
+      "count": "1", 
       "domain": "taz.de", 
       "SiteURL": "http://taz.de/", 
+      "legal_env": "", 
       "links": [
         "adform.net", 
         "flattr.com", 
@@ -714,17 +742,17 @@
         "exponential.com", 
         "adspirit.de"
       ], 
+      "SiteName": "die tageszeitung", 
       "Items": "30", 
       "DS_Day": "0.25862069", 
       "company_logo_url": "", 
       "Sites": "14", 
-      "num": 14, 
-      "SiteID": "taz.de", 
-      "DSURL": "", 
-      "count": "1", 
-      "SiteName": "die tageszeitung", 
       "Color": "#A80A1A", 
+      "num": 14, 
+      "net_type": "", 
       "company_name": "", 
+      "DSURL": "", 
+      "SiteID": "taz.de", 
       "company_website_url": "", 
       "RSS": "http://taz.de/!t291;rss/"
     }
@@ -733,8 +761,7 @@
     "adform.net": {
       "count": "5", 
       "domain": "adform.net", 
-      "num": 7, 
-      "company_name": "Adform ApS", 
+      "legal_env": "eu", 
       "links": [
         "huffingtonpost.de", 
         "bild.de", 
@@ -744,7 +771,10 @@
         "tagesschau.de", 
         "taz.de"
       ], 
-      "company_logo_url": "", 
+      "company_logo_url": "https://ba-cdn.ghostery.com/logos/adform1.png", 
+      "num": 7, 
+      "net_type": "ads", 
+      "company_name": "Adform ApS", 
       "company_website_url": "http://adform.com"
     }, 
     "mlsat02.de": {
@@ -756,8 +786,7 @@
     "vgwort.de": {
       "count": "9", 
       "domain": "vgwort.de", 
-      "num": 9, 
-      "company_name": "VG Wort", 
+      "legal_env": "de", 
       "links": [
         "heise.de", 
         "zeit.de", 
@@ -770,24 +799,28 @@
         "taz.de"
       ], 
       "company_logo_url": "https://ba-cdn.ghostery.com/logos/vgwort.png", 
+      "num": 9, 
+      "net_type": "track", 
+      "company_name": "VG Wort", 
       "company_website_url": "http://www.vgwort.de/startseite.html"
     }, 
     "adtech.de": {
       "count": "1", 
       "domain": "adtech.de", 
-      "num": 1, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "welt.de"
       ], 
       "company_logo_url": "", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "scorecardresearch.com": {
       "count": "13", 
       "domain": "scorecardresearch.com", 
-      "num": 10, 
-      "company_name": "comScore, Inc", 
+      "legal_env": "us", 
       "links": [
         "tagesspiegel.de", 
         "heise.de", 
@@ -800,48 +833,56 @@
         "bild.de", 
         "taz.de"
       ], 
-      "company_logo_url": "", 
+      "company_logo_url": "https://ba-cdn.ghostery.com/logos/fullcirclestudies.png", 
+      "num": 10, 
+      "net_type": "track", 
+      "company_name": "comScore, Inc", 
       "company_website_url": "http://www.comscore.com/"
     }, 
     "meetic-partners.com": {
       "count": "1", 
       "domain": "meetic-partners.com", 
-      "num": 1, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "spiegel.de"
       ], 
       "company_logo_url": "", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "westlotto.com": {
       "count": "1", 
       "domain": "westlotto.com", 
-      "num": 1, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "spiegel.de"
       ], 
       "company_logo_url": "", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "turn.com": {
       "count": "1", 
       "domain": "turn.com", 
-      "num": 2, 
-      "company_name": "Turn", 
+      "legal_env": "", 
       "links": [
         "huffingtonpost.de", 
         "faz.net"
       ], 
       "company_logo_url": "https://ba-cdn.ghostery.com/logos/turn_logo.png", 
+      "num": 2, 
+      "net_type": "", 
+      "company_name": "Turn", 
       "company_website_url": "http://www.turn.com"
     }, 
     "gmads.net": {
       "count": "8", 
       "domain": "gmads.net", 
-      "num": 5, 
-      "company_name": "Xaxis Inc.", 
+      "legal_env": "us", 
       "links": [
         "welt.de", 
         "sueddeutsche.de", 
@@ -849,7 +890,10 @@
         "bild.de", 
         "faz.net"
       ], 
-      "company_logo_url": "", 
+      "company_logo_url": "https://ba-cdn.ghostery.com/logos/xaxis1.png", 
+      "num": 5, 
+      "net_type": "track", 
+      "company_name": "Xaxis Inc.", 
       "company_website_url": "http://www.xaxis.com/de/"
     }, 
     "active-agent.com": {
@@ -861,30 +905,33 @@
     "ariva.de": {
       "count": "1", 
       "domain": "ariva.de", 
-      "num": 1, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "n24.de"
       ], 
       "company_logo_url": "", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "criteo.com": {
       "count": "3", 
       "domain": "criteo.com", 
-      "num": 1, 
-      "company_name": "Criteo", 
+      "legal_env": "us", 
       "links": [
         "faz.net"
       ], 
       "company_logo_url": "https://ba-cdn.ghostery.com/logos/criteo2.png", 
+      "num": 1, 
+      "net_type": "track", 
+      "company_name": "Criteo", 
       "company_website_url": "http://www.criteo.com/"
     }, 
     "meetrics.net": {
       "count": "3", 
       "domain": "meetrics.net", 
-      "num": 5, 
-      "company_name": "Meetrics GmbH", 
+      "legal_env": "de", 
       "links": [
         "handelsblatt.com", 
         "zeit.de", 
@@ -893,31 +940,38 @@
         "tagesspiegel.de"
       ], 
       "company_logo_url": "", 
+      "num": 5, 
+      "net_type": "track", 
+      "company_name": "Meetrics GmbH", 
       "company_website_url": "http://www.meetrics.com/"
     }, 
     "huffingtonpost.com": {
       "count": "1", 
       "domain": "huffingtonpost.com", 
-      "num": 1, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "huffingtonpost.de"
       ], 
       "company_logo_url": "", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "googletagmanager.com": {
       "count": "4", 
       "domain": "googletagmanager.com", 
-      "num": 4, 
-      "company_name": "Google", 
+      "legal_env": "us", 
       "links": [
         "welt.de", 
         "sueddeutsche.de", 
         "zeit.de", 
         "bild.de"
       ], 
-      "company_logo_url": "", 
+      "company_logo_url": "https://ba-cdn.ghostery.com/logos/googledisplaynetwork.png", 
+      "num": 4, 
+      "net_type": "cdn", 
+      "company_name": "Google", 
       "company_website_url": "http://google.com"
     }, 
     "vodafone.de": {
@@ -929,8 +983,7 @@
     "ivwbox.de": {
       "count": "13", 
       "domain": "ivwbox.de", 
-      "num": 13, 
-      "company_name": "IVW (Feststellung der Verbreitung von Werbetr\u00e4gern)", 
+      "legal_env": "de", 
       "links": [
         "tagesspiegel.de", 
         "heise.de", 
@@ -947,6 +1000,9 @@
         "taz.de"
       ], 
       "company_logo_url": "", 
+      "num": 13, 
+      "net_type": "track", 
+      "company_name": "IVW", 
       "company_website_url": "http://ivw.de/"
     }, 
     "media6degrees.com": {
@@ -958,8 +1014,7 @@
     "googlesyndication.com": {
       "count": "13", 
       "domain": "googlesyndication.com", 
-      "num": 12, 
-      "company_name": "Google", 
+      "legal_env": "us", 
       "links": [
         "wildundhund.de", 
         "tagesspiegel.de", 
@@ -974,25 +1029,29 @@
         "faz.net", 
         "bild.de"
       ], 
-      "company_logo_url": "", 
+      "company_logo_url": "https://ba-cdn.ghostery.com/logos/googledisplaynetwork.png", 
+      "num": 12, 
+      "net_type": "cdn", 
+      "company_name": "Google", 
       "company_website_url": "http://google.com"
     }, 
     "focus.de": {
       "count": "2", 
       "domain": "focus.de", 
-      "num": 1, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "huffingtonpost.de"
       ], 
       "company_logo_url": "", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "nuggad.net": {
       "count": "9", 
       "domain": "nuggad.net", 
-      "num": 8, 
-      "company_name": "nugg.ad AG", 
+      "legal_env": "de", 
       "links": [
         "bild.de", 
         "zeit.de", 
@@ -1003,14 +1062,16 @@
         "faz.net", 
         "n24.de"
       ], 
-      "company_logo_url": "", 
+      "company_logo_url": "https://ba-cdn.ghostery.com/logos/nuggad.png", 
+      "num": 8, 
+      "net_type": "ads", 
+      "company_name": "nugg.ad AG", 
       "company_website_url": "http://nugg.ad/"
     }, 
     "exelator.com": {
       "count": "5", 
       "domain": "exelator.com", 
-      "num": 6, 
-      "company_name": "exelate", 
+      "legal_env": "us", 
       "links": [
         "huffingtonpost.de", 
         "faz.net", 
@@ -1019,43 +1080,52 @@
         "sueddeutsche.de", 
         "bild.de"
       ], 
-      "company_logo_url": "", 
+      "company_logo_url": "https://ba-cdn.ghostery.com/logos/exelate1.png", 
+      "num": 6, 
+      "net_type": "track", 
+      "company_name": "exelate", 
       "company_website_url": "http://exelate.com/"
     }, 
     "llnwd.net": {
       "count": "2", 
       "domain": "llnwd.net", 
-      "num": 2, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "zeit.de", 
         "tagesspiegel.de"
       ], 
       "company_logo_url": "", 
+      "num": 2, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "refinedads.com": {
       "count": "4", 
       "domain": "refinedads.com", 
-      "num": 3, 
-      "company_name": "Refined Labs GmbH", 
+      "legal_env": "de", 
       "links": [
         "n24.de", 
         "spiegel.de", 
         "faz.net"
       ], 
-      "company_logo_url": "", 
+      "company_logo_url": "https://ba-cdn.ghostery.com/logos/refinedlabs1.png", 
+      "num": 3, 
+      "net_type": "track", 
+      "company_name": "Refined Labs GmbH", 
       "company_website_url": "http://www.refinedlabs.com/"
     }, 
     "ard.de": {
       "count": "1", 
       "domain": "ard.de", 
-      "num": 1, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "tagesschau.de"
       ], 
       "company_logo_url": "", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "maps.googleapis.com": {
@@ -1079,8 +1149,7 @@
     "facebook.net": {
       "count": "3", 
       "domain": "facebook.net", 
-      "num": 4, 
-      "company_name": "Facebook Inc.", 
+      "legal_env": "us", 
       "links": [
         "welt.de", 
         "sueddeutsche.de", 
@@ -1088,18 +1157,23 @@
         "faz.net"
       ], 
       "company_logo_url": "", 
+      "num": 4, 
+      "net_type": "social", 
+      "company_name": "Facebook Inc.", 
       "company_website_url": "http://facebook.com"
     }, 
     "tele2.de": {
       "count": "1", 
       "domain": "tele2.de", 
-      "num": 2, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "welt.de", 
         "faz.net"
       ], 
       "company_logo_url": "", 
+      "num": 2, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "bidswitch.net": {
@@ -1111,13 +1185,15 @@
     "pubmatic.com": {
       "count": "2", 
       "domain": "pubmatic.com", 
-      "num": 2, 
-      "company_name": "PubMatic", 
+      "legal_env": "us", 
       "links": [
         "huffingtonpost.de", 
         "zeit.de"
       ], 
       "company_logo_url": "https://ba-cdn.ghostery.com/logos/pubmatic.png", 
+      "num": 2, 
+      "net_type": "", 
+      "company_name": "PubMatic", 
       "company_website_url": "http://www.pubmatic.com/"
     }, 
     "optmd.com": {
@@ -1129,8 +1205,7 @@
     "ligatus.com": {
       "count": "8", 
       "domain": "ligatus.com", 
-      "num": 8, 
-      "company_name": "Ligatus", 
+      "legal_env": "eu", 
       "links": [
         "heise.de", 
         "zeit.de", 
@@ -1142,18 +1217,23 @@
         "bild.de"
       ], 
       "company_logo_url": "https://ba-cdn.ghostery.com/logos/ligatus.png", 
+      "num": 8, 
+      "net_type": "track", 
+      "company_name": "Ligatus", 
       "company_website_url": "http://www.ligatus.com/"
     }, 
     "rfihub.com": {
       "count": "1", 
       "domain": "rfihub.com", 
-      "num": 2, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "welt.de", 
         "faz.net"
       ], 
       "company_logo_url": "", 
+      "num": 2, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "vxcp.de": {
@@ -1165,19 +1245,20 @@
     "load.s3.amazonaws.com": {
       "count": "3", 
       "domain": "load.s3.amazonaws.com", 
-      "num": 1, 
-      "company_name": "Amazon Inc.", 
+      "legal_env": "us", 
       "links": [
         "sueddeutsche.de"
       ], 
       "company_logo_url": "", 
+      "num": 1, 
+      "net_type": "cdn", 
+      "company_name": "Amazon Inc.", 
       "company_website_url": "http://amazon.com"
     }, 
     "gstatic.com": {
       "count": "5", 
       "domain": "gstatic.com", 
-      "num": 6, 
-      "company_name": "Google", 
+      "legal_env": "us", 
       "links": [
         "wildundhund.de", 
         "heise.de", 
@@ -1186,7 +1267,10 @@
         "welt.de", 
         "n24.de"
       ], 
-      "company_logo_url": "", 
+      "company_logo_url": "https://ba-cdn.ghostery.com/logos/googledisplaynetwork.png", 
+      "num": 6, 
+      "net_type": "cdn", 
+      "company_name": "Google", 
       "company_website_url": "http://google.com"
     }, 
     "casalemedia.com": {
@@ -1212,19 +1296,20 @@
     "gartenxxl.de": {
       "count": "2", 
       "domain": "gartenxxl.de", 
-      "num": 1, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "n24.de"
       ], 
       "company_logo_url": "", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "plista.com": {
       "count": "6", 
       "domain": "plista.com", 
-      "num": 5, 
-      "company_name": "Plista", 
+      "legal_env": "de", 
       "links": [
         "welt.de", 
         "sueddeutsche.de", 
@@ -1233,18 +1318,23 @@
         "faz.net"
       ], 
       "company_logo_url": "https://ba-cdn.ghostery.com/logos/plista.png", 
+      "num": 5, 
+      "net_type": "track", 
+      "company_name": "Plista", 
       "company_website_url": "http://www.plista.com/"
     }, 
     "zanox.com": {
       "count": "5", 
       "domain": "zanox.com", 
-      "num": 2, 
-      "company_name": "zanox", 
+      "legal_env": "us", 
       "links": [
         "welt.de", 
         "bild.de"
       ], 
       "company_logo_url": "https://ba-cdn.ghostery.com/logos/zanox1.png", 
+      "num": 2, 
+      "net_type": "track", 
+      "company_name": "zanox", 
       "company_website_url": "http://www.zanox.com/us/"
     }, 
     "unister-adservices.com": {
@@ -1257,19 +1347,20 @@
     "taboola.com": {
       "count": "1", 
       "domain": "taboola.com", 
-      "num": 1, 
-      "company_name": "Taboola", 
+      "legal_env": "", 
       "links": [
         "tagesspiegel.de"
       ], 
       "company_logo_url": "https://ba-cdn.ghostery.com/logos/taboola.png", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "Taboola", 
       "company_website_url": "http://www.taboola.com"
     }, 
     "yieldlab.net": {
       "count": "12", 
       "domain": "yieldlab.net", 
-      "num": 10, 
-      "company_name": "Yieldlab AG", 
+      "legal_env": "de", 
       "links": [
         "heise.de", 
         "huffingtonpost.de", 
@@ -1282,42 +1373,51 @@
         "faz.net", 
         "bild.de"
       ], 
-      "company_logo_url": "", 
+      "company_logo_url": "https://ba-cdn.ghostery.com/logos/yieldlab.png", 
+      "num": 10, 
+      "net_type": "track", 
+      "company_name": "Yieldlab AG", 
       "company_website_url": "http://www.yieldlab.de/?lang=en"
     }, 
     "adnxs.com": {
       "count": "2", 
       "domain": "adnxs.com", 
-      "num": 3, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "sueddeutsche.de", 
         "tagesspiegel.de", 
         "faz.net"
       ], 
       "company_logo_url": "", 
+      "num": 3, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "exponential.com": {
       "count": "1", 
       "domain": "exponential.com", 
-      "num": 1, 
-      "company_name": "Exponential Interactive", 
+      "legal_env": "", 
       "links": [
         "taz.de"
       ], 
       "company_logo_url": "https://ba-cdn.ghostery.com/logos/exponential2.png", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "Exponential Interactive", 
       "company_website_url": "http://www.exponential.com/"
     }, 
     "atsfi.de": {
       "count": "1", 
       "domain": "atsfi.de", 
-      "num": 1, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "bild.de"
       ], 
       "company_logo_url": "", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "congstar-media.de": {
@@ -1329,19 +1429,20 @@
     "wulffmorgenthaler.de": {
       "count": "1", 
       "domain": "wulffmorgenthaler.de", 
-      "num": 1, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "welt.de"
       ], 
       "company_logo_url": "", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "chartbeat.net": {
       "count": "4", 
       "domain": "chartbeat.net", 
-      "num": 5, 
-      "company_name": "Chartbeat Inc.", 
+      "legal_env": "us", 
       "links": [
         "huffingtonpost.de", 
         "tagesspiegel.de", 
@@ -1349,7 +1450,10 @@
         "sueddeutsche.de", 
         "faz.net"
       ], 
-      "company_logo_url": "", 
+      "company_logo_url": "https://ba-cdn.ghostery.com/logos/chartbeat1.png", 
+      "num": 5, 
+      "net_type": "track", 
+      "company_name": "Chartbeat Inc.", 
       "company_website_url": "https://chartbeat.com/"
     }, 
     "lotto24.de": {
@@ -1367,8 +1471,7 @@
     "doubleclick.net": {
       "count": "17", 
       "domain": "doubleclick.net", 
-      "num": 12, 
-      "company_name": "Google", 
+      "legal_env": "us", 
       "links": [
         "wildundhund.de", 
         "tagesspiegel.de", 
@@ -1383,37 +1486,43 @@
         "faz.net", 
         "bild.de"
       ], 
-      "company_logo_url": "", 
+      "company_logo_url": "https://ba-cdn.ghostery.com/logos/googledisplaynetwork.png", 
+      "num": 12, 
+      "net_type": "ads", 
+      "company_name": "Google", 
       "company_website_url": "http://google.com"
     }, 
     "71i.de": {
       "count": "2", 
       "domain": "71i.de", 
-      "num": 1, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "n24.de"
       ], 
       "company_logo_url": "", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "akamaihd.net": {
       "count": "2", 
       "domain": "akamaihd.net", 
-      "num": 2, 
-      "company_name": "", 
+      "legal_env": "us", 
       "links": [
         "huffingtonpost.de", 
         "bild.de"
       ], 
       "company_logo_url": "", 
+      "num": 2, 
+      "net_type": "cdn", 
+      "company_name": "Akamai", 
       "company_website_url": ""
     }, 
     "bizographics.com": {
       "count": "6", 
       "domain": "bizographics.com", 
-      "num": 6, 
-      "company_name": "Bizo", 
+      "legal_env": "us", 
       "links": [
         "huffingtonpost.de", 
         "faz.net", 
@@ -1422,7 +1531,10 @@
         "sueddeutsche.de", 
         "bild.de"
       ], 
-      "company_logo_url": "", 
+      "company_logo_url": "https://ba-cdn.ghostery.com/logos/bizo.png", 
+      "num": 6, 
+      "net_type": "track", 
+      "company_name": "Bizo", 
       "company_website_url": "http://www.bizo.com/"
     }, 
     "eyereturn.com": {
@@ -1434,12 +1546,14 @@
     "edgesuite.net": {
       "count": "1", 
       "domain": "edgesuite.net", 
-      "num": 1, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "tagesspiegel.de"
       ], 
       "company_logo_url": "", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "domdex.com": {
@@ -1457,19 +1571,20 @@
     "vinsight.de": {
       "count": "1", 
       "domain": "vinsight.de", 
-      "num": 1, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "huffingtonpost.de"
       ], 
       "company_logo_url": "", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "optimizely.com": {
       "count": "5", 
       "domain": "optimizely.com", 
-      "num": 5, 
-      "company_name": "Optimizely", 
+      "legal_env": "us", 
       "links": [
         "welt.de", 
         "huffingtonpost.de", 
@@ -1478,25 +1593,29 @@
         "sueddeutsche.de"
       ], 
       "company_logo_url": "https://ba-cdn.ghostery.com/logos/optimizely.png", 
+      "num": 5, 
+      "net_type": "track", 
+      "company_name": "Optimizely", 
       "company_website_url": "http://www.optimizely.com/"
     }, 
     "xing-share.com": {
       "count": "2", 
       "domain": "xing-share.com", 
-      "num": 2, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "huffingtonpost.de", 
         "bild.de"
       ], 
       "company_logo_url": "", 
+      "num": 2, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "w55c.net": {
       "count": "5", 
       "domain": "w55c.net", 
-      "num": 5, 
-      "company_name": "Lotame", 
+      "legal_env": "us", 
       "links": [
         "welt.de", 
         "sueddeutsche.de", 
@@ -1504,25 +1623,29 @@
         "zeit.de", 
         "faz.net"
       ], 
-      "company_logo_url": "", 
+      "company_logo_url": "https://ba-cdn.ghostery.com/logos/lotame1.png", 
+      "num": 5, 
+      "net_type": "track", 
+      "company_name": "Lotame", 
       "company_website_url": "http://lotame.com/"
     }, 
     "tnm.de": {
       "count": "2", 
       "domain": "tnm.de", 
-      "num": 1, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "n24.de"
       ], 
       "company_logo_url": "", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "ioam.de": {
       "count": "12", 
       "domain": "ioam.de", 
-      "num": 12, 
-      "company_name": "INFOnline AG", 
+      "legal_env": "de", 
       "links": [
         "tagesspiegel.de", 
         "heise.de", 
@@ -1537,7 +1660,10 @@
         "bild.de", 
         "taz.de"
       ], 
-      "company_logo_url": "", 
+      "company_logo_url": "https://ba-cdn.ghostery.com/logos/infoonline.png", 
+      "num": 12, 
+      "net_type": "track", 
+      "company_name": "INFOnline AG", 
       "company_website_url": "https://www.infonline.de/"
     }, 
     "ru4.com": {
@@ -1549,24 +1675,28 @@
     "creative-serving.com": {
       "count": "2", 
       "domain": "creative-serving.com", 
-      "num": 2, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "handelsblatt.com", 
         "zeit.de"
       ], 
       "company_logo_url": "", 
+      "num": 2, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "etracker.com": {
       "count": "1", 
       "domain": "etracker.com", 
-      "num": 1, 
-      "company_name": "TradeTracker", 
+      "legal_env": "", 
       "links": [
         "taz.de"
       ], 
       "company_logo_url": "https://ba-cdn.ghostery.com/logos/tradetracker.png", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "TradeTracker", 
       "company_website_url": "http://www.tradetracker.com/gb"
     }, 
     "mt0.googleapis.com": {
@@ -1584,32 +1714,35 @@
     "googleusercontent.com": {
       "count": "2", 
       "domain": "googleusercontent.com", 
-      "num": 3, 
-      "company_name": "Google", 
+      "legal_env": "us", 
       "links": [
         "welt.de", 
         "huffingtonpost.de", 
         "spiegel.de"
       ], 
-      "company_logo_url": "", 
+      "company_logo_url": "https://ba-cdn.ghostery.com/logos/googledisplaynetwork.png", 
+      "num": 3, 
+      "net_type": "cdn", 
+      "company_name": "Google", 
       "company_website_url": "http://google.com"
     }, 
     "yahoo.com": {
       "count": "2", 
       "domain": "yahoo.com", 
-      "num": 1, 
-      "company_name": "Yahoo!", 
+      "legal_env": "us", 
       "links": [
         "huffingtonpost.de"
       ], 
       "company_logo_url": "https://ba-cdn.ghostery.com/logos/yahoo.png", 
+      "num": 1, 
+      "net_type": "social", 
+      "company_name": "Yahoo!", 
       "company_website_url": "http://www.yahoo.com/"
     }, 
     "veeseo.com": {
       "count": "5", 
       "domain": "veeseo.com", 
-      "num": 4, 
-      "company_name": "VSEO GmbH", 
+      "legal_env": "de", 
       "links": [
         "welt.de", 
         "handelsblatt.com", 
@@ -1617,6 +1750,9 @@
         "faz.net"
       ], 
       "company_logo_url": "https://ba-cdn.ghostery.com/logos/veeseo.png", 
+      "num": 4, 
+      "net_type": "track", 
+      "company_name": "VSEO GmbH", 
       "company_website_url": "http://www.veeseo.com/"
     }, 
     "rtbidder.net": {
@@ -1628,8 +1764,7 @@
     "adition.com": {
       "count": "15", 
       "domain": "adition.com", 
-      "num": 7, 
-      "company_name": "Adition Technologies AG", 
+      "legal_env": "de", 
       "links": [
         "heise.de", 
         "tagesspiegel.de", 
@@ -1640,6 +1775,9 @@
         "n24.de"
       ], 
       "company_logo_url": "https://ba-cdn.ghostery.com/logos/aditiontechnologiesag.png", 
+      "num": 7, 
+      "net_type": "ads", 
+      "company_name": "Adition Technologies AG", 
       "company_website_url": "http://en.adition.com/"
     }, 
     "netmng.com": {
@@ -1651,37 +1789,43 @@
     "smartadserver.com": {
       "count": "3", 
       "domain": "smartadserver.com", 
-      "num": 2, 
-      "company_name": "Smart AdServer", 
+      "legal_env": "de", 
       "links": [
         "welt.de", 
         "bild.de"
       ], 
       "company_logo_url": "https://ba-cdn.ghostery.com/logos/smartadserver.png", 
+      "num": 2, 
+      "net_type": "ads", 
+      "company_name": "Smart AdServer", 
       "company_website_url": "http://smartadserver.com/"
     }, 
     "tfag.de": {
       "count": "1", 
       "domain": "tfag.de", 
-      "num": 1, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "huffingtonpost.de"
       ], 
       "company_logo_url": "", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "360yield.com": {
       "count": "3", 
       "domain": "360yield.com", 
-      "num": 3, 
-      "company_name": "DataWeb B.V.", 
+      "legal_env": "eu", 
       "links": [
         "handelsblatt.com", 
         "zeit.de", 
         "faz.net"
       ], 
       "company_logo_url": "", 
+      "num": 3, 
+      "net_type": "track", 
+      "company_name": "DataWeb B.V.", 
       "company_website_url": "http://www.dataweb.nl/"
     }, 
     "mookie1.com": {
@@ -1699,12 +1843,14 @@
     "ad-srv.net": {
       "count": "1", 
       "domain": "ad-srv.net", 
-      "num": 1, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "n24.de"
       ], 
       "company_logo_url": "", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "msn.com": {
@@ -1716,12 +1862,14 @@
     "disqus.com": {
       "count": "2", 
       "domain": "disqus.com", 
-      "num": 1, 
-      "company_name": "Disqus", 
+      "legal_env": "us", 
       "links": [
         "welt.de"
       ], 
       "company_logo_url": "https://ba-cdn.ghostery.com/logos/disqus1.png", 
+      "num": 1, 
+      "net_type": "social", 
+      "company_name": "Disqus", 
       "company_website_url": "http://disqus.com/"
     }, 
     "congstar.de": {
@@ -1733,12 +1881,14 @@
     "ebay.com": {
       "count": "3", 
       "domain": "ebay.com", 
-      "num": 1, 
-      "company_name": "eBay", 
+      "legal_env": "us", 
       "links": [
         "heise.de"
       ], 
       "company_logo_url": "https://ba-cdn.ghostery.com/logos/ebay1.png", 
+      "num": 1, 
+      "net_type": "ads", 
+      "company_name": "eBay", 
       "company_website_url": "http://www.ebay.com/"
     }, 
     "planetapes.de": {
@@ -1750,45 +1900,50 @@
     "tribalfusion.com": {
       "count": "3", 
       "domain": "tribalfusion.com", 
-      "num": 1, 
-      "company_name": "Tribal Fusion", 
+      "legal_env": "us", 
       "links": [
         "taz.de"
       ], 
       "company_logo_url": "https://ba-cdn.ghostery.com/logos/tribalfusion.png", 
+      "num": 1, 
+      "net_type": "track", 
+      "company_name": "Tribal Fusion", 
       "company_website_url": "http://www.tribalfusion.com"
     }, 
     "googletagservices.com": {
       "count": "2", 
       "domain": "googletagservices.com", 
-      "num": 3, 
-      "company_name": "Google", 
+      "legal_env": "us", 
       "links": [
         "wildundhund.de", 
         "huffingtonpost.de", 
         "spiegel.de"
       ], 
-      "company_logo_url": "", 
+      "company_logo_url": "https://ba-cdn.ghostery.com/logos/googledisplaynetwork.png", 
+      "num": 3, 
+      "net_type": "cdn", 
+      "company_name": "Google", 
       "company_website_url": "http://google.com"
     }, 
     "flashtalking.com": {
       "count": "5", 
       "domain": "flashtalking.com", 
-      "num": 3, 
-      "company_name": "Flashtalking", 
+      "legal_env": "eu", 
       "links": [
         "tagesspiegel.de", 
         "n24.de", 
         "faz.net"
       ], 
       "company_logo_url": "https://ba-cdn.ghostery.com/logos/flashtalking.png", 
+      "num": 3, 
+      "net_type": "track", 
+      "company_name": "Flashtalking", 
       "company_website_url": "http://www.flashtalking.com/"
     }, 
     "2mdn.net": {
       "count": "10", 
       "domain": "2mdn.net", 
-      "num": 5, 
-      "company_name": "Google", 
+      "legal_env": "us", 
       "links": [
         "huffingtonpost.de", 
         "handelsblatt.com", 
@@ -1796,7 +1951,10 @@
         "heise.de", 
         "sueddeutsche.de"
       ], 
-      "company_logo_url": "", 
+      "company_logo_url": "https://ba-cdn.ghostery.com/logos/googledisplaynetwork.png", 
+      "num": 5, 
+      "net_type": "ads", 
+      "company_name": "Google", 
       "company_website_url": "http://google.com"
     }, 
     "crwdcntrl.net": {
@@ -1808,46 +1966,54 @@
     "cxense.com": {
       "count": "2", 
       "domain": "cxense.com", 
-      "num": 1, 
-      "company_name": "Cxense", 
+      "legal_env": "", 
       "links": [
         "welt.de"
       ], 
       "company_logo_url": "https://ba-cdn.ghostery.com/logos/cxense2.png", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "Cxense", 
       "company_website_url": "http://www.cxense.com/"
     }, 
     "omtrdc.net": {
       "count": "1", 
       "domain": "omtrdc.net", 
-      "num": 1, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "huffingtonpost.de"
       ], 
       "company_logo_url": "", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "iconist.de": {
       "count": "2", 
       "domain": "iconist.de", 
-      "num": 1, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "welt.de"
       ], 
       "company_logo_url": "", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "sitestat.com": {
       "count": "2", 
       "domain": "sitestat.com", 
-      "num": 2, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "sueddeutsche.de", 
         "tagesschau.de"
       ], 
       "company_logo_url": "", 
+      "num": 2, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "ctnsnet.com": {
@@ -1859,8 +2025,7 @@
     "chartbeat.com": {
       "count": "4", 
       "domain": "chartbeat.com", 
-      "num": 4, 
-      "company_name": "ChartBeat", 
+      "legal_env": "us", 
       "links": [
         "sueddeutsche.de", 
         "tagesspiegel.de", 
@@ -1868,42 +2033,51 @@
         "faz.net"
       ], 
       "company_logo_url": "https://ba-cdn.ghostery.com/logos/chartbeat1.png", 
+      "num": 4, 
+      "net_type": "track", 
+      "company_name": "ChartBeat", 
       "company_website_url": "http://chartbeat.com"
     }, 
     "emediate.eu": {
       "count": "1", 
       "domain": "emediate.eu", 
-      "num": 1, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "welt.de"
       ], 
       "company_logo_url": "", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "quisma.com": {
       "count": "1", 
       "domain": "quisma.com", 
-      "num": 1, 
-      "company_name": "Quisma", 
+      "legal_env": "", 
       "links": [
         "sueddeutsche.de"
       ], 
       "company_logo_url": "https://ba-cdn.ghostery.com/logos/quisma.png", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "Quisma", 
       "company_website_url": "http://www.quisma.com/en/"
     }, 
     "webtrekk.net": {
       "count": "4", 
       "domain": "webtrekk.net", 
-      "num": 4, 
-      "company_name": "Webtrekk GmbH", 
+      "legal_env": "de", 
       "links": [
         "welt.de", 
         "handelsblatt.com", 
         "zeit.de", 
         "heise.de"
       ], 
-      "company_logo_url": "", 
+      "company_logo_url": "https://ba-cdn.ghostery.com/logos/webtrekk.png", 
+      "num": 4, 
+      "net_type": "track", 
+      "company_name": "Webtrekk GmbH", 
       "company_website_url": "http://www.webtrekk.com/de/home.html"
     }, 
     "chango.com": {
@@ -1915,21 +2089,22 @@
     "research.de.com": {
       "count": "2", 
       "domain": "research.de.com", 
-      "num": 3, 
-      "company_name": "", 
+      "legal_env": "de", 
       "links": [
         "sueddeutsche.de", 
         "zeit.de", 
         "faz.net"
       ], 
       "company_logo_url": "", 
-      "company_website_url": ""
+      "num": 3, 
+      "net_type": "track", 
+      "company_name": "Meetrics GmbH", 
+      "company_website_url": "http://www.meetrics.com/"
     }, 
     "twitter.com": {
       "count": "12", 
       "domain": "twitter.com", 
-      "num": 11, 
-      "company_name": "Twitter", 
+      "legal_env": "us", 
       "links": [
         "wildundhund.de", 
         "tagesspiegel.de", 
@@ -1944,18 +2119,23 @@
         "n24.de"
       ], 
       "company_logo_url": "https://ba-cdn.ghostery.com/logos/twitter1.png", 
+      "num": 11, 
+      "net_type": "social", 
+      "company_name": "Twitter", 
       "company_website_url": "https://twitter.com/"
     }, 
     "visualrevenue.com": {
       "count": "2", 
       "domain": "visualrevenue.com", 
-      "num": 2, 
-      "company_name": "Visual Revenue", 
+      "legal_env": "us", 
       "links": [
         "huffingtonpost.de", 
         "bild.de"
       ], 
       "company_logo_url": "https://ba-cdn.ghostery.com/logos/visualrevenue1.png", 
+      "num": 2, 
+      "net_type": "", 
+      "company_name": "Visual Revenue", 
       "company_website_url": "http://visualrevenue.com/"
     }, 
     "acuityplatform.com": {
@@ -1967,13 +2147,15 @@
     "o2online.de": {
       "count": "3", 
       "domain": "o2online.de", 
-      "num": 2, 
-      "company_name": "Telefonica SA", 
+      "legal_env": "eu", 
       "links": [
         "tagesspiegel.de", 
         "faz.net"
       ], 
       "company_logo_url": "", 
+      "num": 2, 
+      "net_type": "ads", 
+      "company_name": "Telefonica SA", 
       "company_website_url": "http://www.telefonica.com/en/home/jsp/home.jsp"
     }, 
     "1822direkt.com": {
@@ -2009,19 +2191,20 @@
     "quantserve.com": {
       "count": "1", 
       "domain": "quantserve.com", 
-      "num": 1, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "huffingtonpost.de"
       ], 
       "company_logo_url": "", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "heias.com": {
       "count": "4", 
       "domain": "heias.com", 
-      "num": 5, 
-      "company_name": "adnologies GmbH", 
+      "legal_env": "de", 
       "links": [
         "welt.de", 
         "handelsblatt.com", 
@@ -2029,7 +2212,10 @@
         "bild.de", 
         "faz.net"
       ], 
-      "company_logo_url": "", 
+      "company_logo_url": "https://ba-cdn.ghostery.com/logos/adnologies1.png", 
+      "num": 5, 
+      "net_type": "track", 
+      "company_name": "adnologies GmbH", 
       "company_website_url": "http://adnologies.com"
     }, 
     "1822direkt.biz": {
@@ -2041,23 +2227,27 @@
     "rubiconproject.com": {
       "count": "1", 
       "domain": "rubiconproject.com", 
-      "num": 1, 
-      "company_name": "Rubicon Project", 
+      "legal_env": "", 
       "links": [
         "tagesspiegel.de"
       ], 
       "company_logo_url": "https://ba-cdn.ghostery.com/logos/rubicon.png", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "Rubicon Project", 
       "company_website_url": "http://www.rubiconproject.com"
     }, 
     "adroll.com": {
       "count": "1", 
       "domain": "adroll.com", 
-      "num": 1, 
-      "company_name": "AdRoll", 
+      "legal_env": "", 
       "links": [
         "sueddeutsche.de"
       ], 
       "company_logo_url": "https://ba-cdn.ghostery.com/logos/adroll.png", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "AdRoll", 
       "company_website_url": "http://www.adroll.com/"
     }, 
     "gwallet.com": {
@@ -2069,136 +2259,157 @@
     "mupads.de": {
       "count": "1", 
       "domain": "mupads.de", 
-      "num": 1, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "spiegel.de"
       ], 
       "company_logo_url": "", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "etracker.de": {
       "count": "1", 
       "domain": "etracker.de", 
-      "num": 1, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "taz.de"
       ], 
       "company_logo_url": "", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "sascdn.com": {
       "count": "4", 
       "domain": "sascdn.com", 
-      "num": 3, 
-      "company_name": "auFeminin.com SA", 
+      "legal_env": "eu", 
       "links": [
         "welt.de", 
         "bild.de", 
         "spiegel.de"
       ], 
       "company_logo_url": "", 
+      "num": 3, 
+      "net_type": "track", 
+      "company_name": "auFeminin.com SA", 
       "company_website_url": "http://aufeminin.com"
     }, 
     "adscale.de": {
       "count": "4", 
       "domain": "adscale.de", 
-      "num": 2, 
-      "company_name": "adscale", 
+      "legal_env": "de", 
       "links": [
         "welt.de", 
         "taz.de"
       ], 
       "company_logo_url": "https://ba-cdn.ghostery.com/logos/logo_adscale.png", 
+      "num": 2, 
+      "net_type": "ads", 
+      "company_name": "adscale", 
       "company_website_url": "http://www.adscale.de/"
     }, 
     "google.de": {
       "count": "2", 
       "domain": "google.de", 
-      "num": 4, 
-      "company_name": "Google", 
+      "legal_env": "us", 
       "links": [
         "welt.de", 
         "sueddeutsche.de", 
         "zeit.de", 
         "tagesspiegel.de"
       ], 
-      "company_logo_url": "", 
+      "company_logo_url": "https://ba-cdn.ghostery.com/logos/googledisplaynetwork.png", 
+      "num": 4, 
+      "net_type": "", 
+      "company_name": "Google", 
       "company_website_url": "http://google.com"
     }, 
     "intellitxt.com": {
       "count": "1", 
       "domain": "intellitxt.com", 
-      "num": 1, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "bild.de"
       ], 
       "company_logo_url": "", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "urban-media.com": {
       "count": "2", 
       "domain": "urban-media.com", 
-      "num": 1, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "tagesspiegel.de"
       ], 
       "company_logo_url": "", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "bluekai.com": {
       "count": "1", 
       "domain": "bluekai.com", 
-      "num": 1, 
-      "company_name": "BlueKai", 
+      "legal_env": "", 
       "links": [
         "welt.de"
       ], 
       "company_logo_url": "https://ba-cdn.ghostery.com/logos/bluekai.png", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "BlueKai", 
       "company_website_url": "http://www.bluekai.com"
     }, 
     "adrolays.de": {
       "count": "1", 
       "domain": "adrolays.de", 
-      "num": 2, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "welt.de", 
         "bild.de"
       ], 
       "company_logo_url": "", 
+      "num": 2, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "reprize.de": {
       "count": "1", 
       "domain": "reprize.de", 
-      "num": 1, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "sueddeutsche.de"
       ], 
       "company_logo_url": "", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "imrworldwide.com": {
       "count": "1", 
       "domain": "imrworldwide.com", 
-      "num": 1, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "huffingtonpost.de"
       ], 
       "company_logo_url": "", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "revsci.net": {
       "count": "8", 
       "domain": "revsci.net", 
-      "num": 8, 
-      "company_name": "Audience Science", 
+      "legal_env": "us", 
       "links": [
         "huffingtonpost.de", 
         "zeit.de", 
@@ -2209,7 +2420,10 @@
         "faz.net", 
         "n24.de"
       ], 
-      "company_logo_url": "", 
+      "company_logo_url": "https://ba-cdn.ghostery.com/logos/audiencescience1.png", 
+      "num": 8, 
+      "net_type": "track", 
+      "company_name": "Audience Science", 
       "company_website_url": "http://www.audiencescience.com/"
     }, 
     "eqads.com": {
@@ -2221,13 +2435,15 @@
     "aol.com": {
       "count": "1", 
       "domain": "aol.com", 
-      "num": 2, 
-      "company_name": "AOL Advertising", 
+      "legal_env": "", 
       "links": [
         "huffingtonpost.de", 
         "bild.de"
       ], 
       "company_logo_url": "https://ba-cdn.ghostery.com/logos/aoladvertising.png", 
+      "num": 2, 
+      "net_type": "", 
+      "company_name": "AOL Advertising", 
       "company_website_url": "http://advertising.aol.com/"
     }, 
     "t-mobile.de": {
@@ -2239,43 +2455,48 @@
     "ix.de": {
       "count": "1", 
       "domain": "ix.de", 
-      "num": 1, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "heise.de"
       ], 
       "company_logo_url": "", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "mxcdn.net": {
       "count": "4", 
       "domain": "mxcdn.net", 
-      "num": 3, 
-      "company_name": "Meetrics GmbH", 
+      "legal_env": "de", 
       "links": [
         "zeit.de", 
         "spiegel.de", 
         "tagesspiegel.de"
       ], 
-      "company_logo_url": "", 
+      "company_logo_url": "https://ba-cdn.ghostery.com/logos/meetrics.png", 
+      "num": 3, 
+      "net_type": "track", 
+      "company_name": "Meetrics GmbH", 
       "company_website_url": "http://www.meetrics.com/"
     }, 
     "huffpost.com": {
       "count": "2", 
       "domain": "huffpost.com", 
-      "num": 1, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "huffingtonpost.de"
       ], 
       "company_logo_url": "", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "outbrain.com": {
       "count": "5", 
       "domain": "outbrain.com", 
-      "num": 4, 
-      "company_name": "Outbrain", 
+      "legal_env": "us", 
       "links": [
         "huffingtonpost.de", 
         "handelsblatt.com", 
@@ -2283,50 +2504,61 @@
         "n24.de"
       ], 
       "company_logo_url": "https://ba-cdn.ghostery.com/logos/outbrain.png", 
+      "num": 4, 
+      "net_type": "track", 
+      "company_name": "Outbrain", 
       "company_website_url": "http://www.outbrain.com/"
     }, 
     "sueddeutsche.com": {
       "count": "2", 
       "domain": "sueddeutsche.com", 
-      "num": 1, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "sueddeutsche.de"
       ], 
       "company_logo_url": "", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "exactag.com": {
       "count": "1", 
       "domain": "exactag.com", 
-      "num": 1, 
-      "company_name": "Exactag (formerly Falk Multichannel)", 
+      "legal_env": "", 
       "links": [
         "bild.de"
       ], 
       "company_logo_url": "https://ba-cdn.ghostery.com/logos/exactag.png", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "Exactag (formerly Falk Multichannel)", 
       "company_website_url": "http://www.exactag.com"
     }, 
     "youtube.com": {
       "count": "1", 
       "domain": "youtube.com", 
-      "num": 1, 
-      "company_name": "Google", 
+      "legal_env": "", 
       "links": [
         "wildundhund.de"
       ], 
       "company_logo_url": "", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "Google", 
       "company_website_url": "http://google.com"
     }, 
     "quality-channel.de": {
       "count": "2", 
       "domain": "quality-channel.de", 
-      "num": 1, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "spiegel.de"
       ], 
       "company_logo_url": "", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "myspace.com": {
@@ -2338,26 +2570,30 @@
     "googleadservices.com": {
       "count": "2", 
       "domain": "googleadservices.com", 
-      "num": 4, 
-      "company_name": "Google", 
+      "legal_env": "", 
       "links": [
         "wildundhund.de", 
         "sueddeutsche.de", 
         "zeit.de", 
         "tagesspiegel.de"
       ], 
-      "company_logo_url": "", 
+      "company_logo_url": "https://ba-cdn.ghostery.com/logos/googledisplaynetwork.png", 
+      "num": 4, 
+      "net_type": "", 
+      "company_name": "Google", 
       "company_website_url": "http://google.com"
     }, 
     "disquscdn.com": {
       "count": "3", 
       "domain": "disquscdn.com", 
-      "num": 1, 
-      "company_name": "Disqus", 
+      "legal_env": "us", 
       "links": [
         "welt.de"
       ], 
-      "company_logo_url": "", 
+      "company_logo_url": "https://ba-cdn.ghostery.com/logos/disqus1.png", 
+      "num": 1, 
+      "net_type": "social", 
+      "company_name": "Disqus", 
       "company_website_url": "http://disqus.com/"
     }, 
     "mlsat04.de": {
@@ -2375,12 +2611,14 @@
     "mpnrs.com": {
       "count": "1", 
       "domain": "mpnrs.com", 
-      "num": 1, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "sueddeutsche.de"
       ], 
       "company_logo_url": "", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "adsrvr.org": {
@@ -2392,43 +2630,48 @@
     "fonts.googleapis.com": {
       "count": "2", 
       "domain": "fonts.googleapis.com", 
-      "num": 1, 
-      "company_name": "Google", 
+      "legal_env": "", 
       "links": [
         "spiegel.de"
       ], 
-      "company_logo_url": "", 
+      "company_logo_url": "https://ba-cdn.ghostery.com/logos/googledisplaynetwork.png", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "Google", 
       "company_website_url": "http://google.com"
     }, 
     "brightcove.com": {
       "count": "3", 
       "domain": "brightcove.com", 
-      "num": 3, 
-      "company_name": "Brightcove", 
+      "legal_env": "us", 
       "links": [
         "handelsblatt.com", 
         "zeit.de", 
         "tagesspiegel.de"
       ], 
       "company_logo_url": "https://ba-cdn.ghostery.com/logos/brightcove.png", 
+      "num": 3, 
+      "net_type": "track", 
+      "company_name": "Brightcove", 
       "company_website_url": "http://www.brightcove.com/en/"
     }, 
     "m-pathy.com": {
       "count": "1", 
       "domain": "m-pathy.com", 
-      "num": 1, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "faz.net"
       ], 
       "company_logo_url": "", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "facebook.com": {
       "count": "12", 
       "domain": "facebook.com", 
-      "num": 9, 
-      "company_name": "Facebook Connect", 
+      "legal_env": "us", 
       "links": [
         "wildundhund.de", 
         "huffingtonpost.de", 
@@ -2440,14 +2683,16 @@
         "faz.net", 
         "n24.de"
       ], 
-      "company_logo_url": "http://cdn.betteradvertising.com/logos/facebook connect.png", 
-      "company_website_url": "http://developers.facebook.com/"
+      "company_logo_url": "http://cdn.betteradvertising.com/logos/facebook%20connect.png", 
+      "num": 9, 
+      "net_type": "social", 
+      "company_name": "Facebook Inc.", 
+      "company_website_url": "http://facebook.com"
     }, 
     "t4ft.de": {
       "count": "4", 
       "domain": "t4ft.de", 
-      "num": 7, 
-      "company_name": "InnoCreative ", 
+      "legal_env": "de", 
       "links": [
         "heise.de", 
         "huffingtonpost.de", 
@@ -2458,13 +2703,15 @@
         "bild.de"
       ], 
       "company_logo_url": "", 
+      "num": 7, 
+      "net_type": "track", 
+      "company_name": "InnoCreative ", 
       "company_website_url": "http://www.innocreative.de/"
     }, 
     "adspirit.de": {
       "count": "5", 
       "domain": "adspirit.de", 
-      "num": 4, 
-      "company_name": "AdSpirit GmbH", 
+      "legal_env": "de", 
       "links": [
         "sueddeutsche.de", 
         "tagesspiegel.de", 
@@ -2472,24 +2719,28 @@
         "faz.net"
       ], 
       "company_logo_url": "https://ba-cdn.ghostery.com/logos/adspirit.png", 
+      "num": 4, 
+      "net_type": "ads", 
+      "company_name": "AdSpirit GmbH", 
       "company_website_url": "http://www.adspirit.de"
     }, 
     "paulparey.de": {
       "count": "2", 
       "domain": "paulparey.de", 
-      "num": 1, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "wildundhund.de"
       ], 
       "company_logo_url": "", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "serving-sys.com": {
       "count": "9", 
       "domain": "serving-sys.com", 
-      "num": 9, 
-      "company_name": "Sizmek", 
+      "legal_env": "us", 
       "links": [
         "wildundhund.de", 
         "bild.de", 
@@ -2501,40 +2752,49 @@
         "faz.net", 
         "n24.de"
       ], 
-      "company_logo_url": "", 
+      "company_logo_url": "https://ba-cdn.ghostery.com/logos/peer39.png", 
+      "num": 9, 
+      "net_type": "ads", 
+      "company_name": "Sizmek", 
       "company_website_url": "http://www.sizmek.com/"
     }, 
     "twiago.com": {
       "count": "1", 
       "domain": "twiago.com", 
-      "num": 1, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "tagesspiegel.de"
       ], 
       "company_logo_url": "", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "mediaplex.com": {
       "count": "4", 
       "domain": "mediaplex.com", 
-      "num": 1, 
-      "company_name": "Conversant Media", 
+      "legal_env": "us", 
       "links": [
         "heise.de"
       ], 
       "company_logo_url": "", 
+      "num": 1, 
+      "net_type": "track", 
+      "company_name": "Conversant Media", 
       "company_website_url": "http://www.conversantmedia.com/"
     }, 
     "advolution.de": {
       "count": "3", 
       "domain": "advolution.de", 
-      "num": 1, 
-      "company_name": "Advolution", 
+      "legal_env": "de", 
       "links": [
         "sueddeutsche.de"
       ], 
       "company_logo_url": "https://ba-cdn.ghostery.com/logos/advolution.png", 
+      "num": 1, 
+      "net_type": "ads", 
+      "company_name": "Advolution", 
       "company_website_url": "http://www.advolution.de"
     }, 
     "bidtheatre.com": {
@@ -2546,12 +2806,14 @@
     "intelliad.de": {
       "count": "1", 
       "domain": "intelliad.de", 
-      "num": 1, 
-      "company_name": "intelliAd", 
+      "legal_env": "", 
       "links": [
         "faz.net"
       ], 
       "company_logo_url": "https://ba-cdn.ghostery.com/logos/intelliad.png", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "intelliAd", 
       "company_website_url": "http://www.intelliad.de/"
     }, 
     "media01.eu": {
@@ -2563,30 +2825,33 @@
     "flattr.com": {
       "count": "2", 
       "domain": "flattr.com", 
-      "num": 1, 
-      "company_name": "Flattr", 
+      "legal_env": "", 
       "links": [
         "taz.de"
       ], 
       "company_logo_url": "https://ba-cdn.ghostery.com/logos/flattr.png", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "Flattr", 
       "company_website_url": "http://flattr.com/"
     }, 
     "newrelic.com": {
       "count": "2", 
       "domain": "newrelic.com", 
-      "num": 1, 
-      "company_name": "New Relic", 
+      "legal_env": "", 
       "links": [
         "huffingtonpost.de"
       ], 
       "company_logo_url": "https://ba-cdn.ghostery.com/logos/newrelic.png", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "New Relic", 
       "company_website_url": "http://newrelic.com/"
     }, 
     "mathtag.com": {
       "count": "2", 
       "domain": "mathtag.com", 
-      "num": 4, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "welt.de", 
         "wildundhund.de", 
@@ -2594,17 +2859,22 @@
         "faz.net"
       ], 
       "company_logo_url": "", 
+      "num": 4, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "qservz.com": {
       "count": "4", 
       "domain": "qservz.com", 
-      "num": 1, 
-      "company_name": "Group M Worldwide, INC", 
+      "legal_env": "us", 
       "links": [
         "tagesspiegel.de"
       ], 
       "company_logo_url": "", 
+      "num": 1, 
+      "net_type": "track", 
+      "company_name": "Group M Worldwide, INC", 
       "company_website_url": "http://groupm.com/"
     }, 
     "bestlawyers.com": {
@@ -2616,8 +2886,7 @@
     "google.com": {
       "count": "13", 
       "domain": "google.com", 
-      "num": 10, 
-      "company_name": "Google", 
+      "legal_env": "us", 
       "links": [
         "wildundhund.de", 
         "huffingtonpost.de", 
@@ -2631,13 +2900,15 @@
         "bild.de"
       ], 
       "company_logo_url": "https://ba-cdn.ghostery.com/logos/doubleclick.png", 
+      "num": 10, 
+      "net_type": "ads", 
+      "company_name": "Google", 
       "company_website_url": "http://google.com"
     }, 
     "twimg.com": {
       "count": "6", 
       "domain": "twimg.com", 
-      "num": 5, 
-      "company_name": "Twitter", 
+      "legal_env": "us", 
       "links": [
         "welt.de", 
         "sueddeutsche.de", 
@@ -2646,60 +2917,70 @@
         "tagesspiegel.de"
       ], 
       "company_logo_url": "https://ba-cdn.ghostery.com/logos/twitter1.png", 
+      "num": 5, 
+      "net_type": "social", 
+      "company_name": "Twitter", 
       "company_website_url": "https://twitter.com/"
     }, 
     "webmasterplan.com": {
       "count": "2", 
       "domain": "webmasterplan.com", 
-      "num": 3, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "welt.de", 
         "bild.de", 
         "n24.de"
       ], 
       "company_logo_url": "", 
+      "num": 3, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "trgt.eu": {
       "count": "4", 
       "domain": "trgt.eu", 
-      "num": 1, 
-      "company_name": "pilot 1/0 GmbH & Co.KG", 
+      "legal_env": "de", 
       "links": [
         "welt.de"
       ], 
       "company_logo_url": "", 
+      "num": 1, 
+      "net_type": "track", 
+      "company_name": "pilot 1/0 GmbH & Co.KG", 
       "company_website_url": "http://www.pilot.de/en/"
     }, 
     "adscience.nl": {
       "count": "2", 
       "domain": "adscience.nl", 
-      "num": 1, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "zeit.de"
       ], 
       "company_logo_url": "", 
+      "num": 1, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "openx.net": {
       "count": "1", 
       "domain": "openx.net", 
-      "num": 2, 
-      "company_name": "", 
+      "legal_env": "", 
       "links": [
         "huffingtonpost.de", 
         "zeit.de"
       ], 
       "company_logo_url": "", 
+      "num": 2, 
+      "net_type": "", 
+      "company_name": "", 
       "company_website_url": ""
     }, 
     "krxd.net": {
       "count": "8", 
       "domain": "krxd.net", 
-      "num": 8, 
-      "company_name": "Krux Digital", 
+      "legal_env": "us", 
       "links": [
         "huffingtonpost.de", 
         "zeit.de", 
@@ -2710,14 +2991,16 @@
         "faz.net", 
         "n24.de"
       ], 
-      "company_logo_url": "", 
+      "company_logo_url": "https://ba-cdn.ghostery.com/logos/kruxdigital.png", 
+      "num": 8, 
+      "net_type": "track", 
+      "company_name": "Krux Digital", 
       "company_website_url": "http://www.krux.com/"
     }, 
     "google-analytics.com": {
       "count": "12", 
       "domain": "google-analytics.com", 
-      "num": 8, 
-      "company_name": "Google", 
+      "legal_env": "us", 
       "links": [
         "wildundhund.de", 
         "tagesspiegel.de", 
@@ -2728,19 +3011,24 @@
         "faz.net", 
         "n24.de"
       ], 
-      "company_logo_url": "", 
+      "company_logo_url": "https://ba-cdn.ghostery.com/logos/googledisplaynetwork.png", 
+      "num": 8, 
+      "net_type": "track", 
+      "company_name": "Google", 
       "company_website_url": "http://google.com"
     }, 
     "aolcdn.com": {
       "count": "2", 
       "domain": "aolcdn.com", 
-      "num": 1, 
-      "company_name": "", 
+      "legal_env": "us", 
       "links": [
         "huffingtonpost.de"
       ], 
       "company_logo_url": "", 
-      "company_website_url": ""
+      "num": 1, 
+      "net_type": "cdn", 
+      "company_name": "America Online", 
+      "company_website_url": "http://aol.com"
     }
   }
 }
