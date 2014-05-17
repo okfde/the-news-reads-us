@@ -36,6 +36,13 @@ def parse_trackers():
         with open('tracker_sites.json', 'wb') as fh:
             json.dump(domainsInfo, fh, indent=2)
 
+        with open('tracker_sites.csv', 'wb') as fh:
+            writer = csv.writer(fh, delimiter=',')
+            writer.writerow(['domain', 'count', 'company_name', 'company_website_url'])
+            for domain, data in domainsInfo.items():
+                writer.writerow([domain, data.get('count'), data.get('company_name'), data.get('company_website_url')])
+                #print domain, data
+
 
 if __name__ == '__main__':
     parse_trackers()

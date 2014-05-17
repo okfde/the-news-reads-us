@@ -16,6 +16,8 @@ def parse_stats():
     sites2news = defaultdict(set)
     for site_name in os.listdir(DIR_NAME):
         path = os.path.join(DIR_NAME, site_name)
+        if site_name == 'facebook.com':
+            continue
         with open(path, 'rb') as fh:
             data = json.load(fh)
             for conn in data.get('connections'):
