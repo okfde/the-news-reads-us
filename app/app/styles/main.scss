@@ -7,11 +7,6 @@ h1, h2, h3, h4 {
     font-family: $font-stack;
 }
 
-
-/*
- * Globals
- */
-
 a {
     text-decoration: none;
 }
@@ -35,7 +30,7 @@ section {
     width: 50% 50%;
 }
 
-h1 {
+.newspaper h1 {
 
     width: 17em;
     position: relative;
@@ -44,7 +39,7 @@ h1 {
     font-size: 45px;
 }
 
-h1 span {
+.newspaper h1 span {
     font-weight: bold;
 }
 
